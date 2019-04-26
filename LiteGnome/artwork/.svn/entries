@@ -1,0 +1,110 @@
+10
+
+dir
+94
+http://themes.effx.us/svn/current/LiteGnome/e16/artwork
+http://themes.effx.us/svn
+
+
+
+2008-12-03T22:00:38.153958Z
+1
+don
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+00dd9fb7-089a-470a-bdcf-97ef201ece11
+
+dialogs
+dir
+
+_UseThis
+dir
+
+Default
+dir
+
+Brown
+dir
+
+common
+dir
+
+coords
+dir
+
+barleft.bmp
+file
+
+
+
+
+2010-03-18T22:04:30.000993Z
+883956e3ac7741c25aab54858418f05f
+2008-12-03T22:00:38.153958Z
+1
+don
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+269334
+
+pager
+dir
+
+cursors
+dir
+
+borders
+dir
+
+dragbar
+dir
+
+backgrounds
+dir
+
+init
+dir
+
+dialogs.kaput
+dir
+
+Universal
+dir
+
+epplets
+dir
+
+tooltips
+dir
+

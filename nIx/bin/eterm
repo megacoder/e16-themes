@@ -1,0 +1,28 @@
+#!/usr/bin/perl -w
+
+#
+#I found this nice little script on muhri.net - & changed a few things to 
+# make it bitch about NOT having cvs Eterm... 
+#
+
+#remove the -t auto part if you don't want automatic theme calls from E to Eterm
+
+@Ver = `Eterm --version`;
+$E = shift(@Ver);
+
+$geometry = "80x24";
+$name = "nIx";
+$shade = 0xe6;
+
+$red = int(rand(257));
+$green = int(rand(257));
+$blue = int(rand(257));
+
+$options = "-t auto --name $name --menu-text-color white -b black -f white --geometry $geometry  --trans --cmod $shade --cmod-red $red --cmod-green $green --cmod-blue $blue";
+
+if ($E =~ /0.9/) {
+	exec( "Eterm $options &" )
+} else {
+	exec( "eesh -e 'dialog_ok  You do not have CVS Eterm 0.9! -- I highly recommend you get Eterm CVS!  '");
+	exit(0);
+}

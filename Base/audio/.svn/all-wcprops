@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1/current/Base/e16/audio
+END
+prefs_virtual.wav
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1/current/Base/e16/audio/prefs_virtual.wav
+END
+goodbye.wav
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/current/Base/e16/audio/goodbye.wav
+END
+prefs_tooltip.wav
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1/current/Base/e16/audio/prefs_tooltip.wav
+END
+prefs_autoraise.wav
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/current/Base/e16/audio/prefs_autoraise.wav
+END
+prefs_pager.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1/current/Base/e16/audio/prefs_pager.wav
+END
+SOUND_MOVE_AREA_DOWN.wav
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_MOVE_AREA_DOWN.wav
+END
+SOUND_UNSHADE.wav
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_UNSHADE.wav
+END
+SOUND_WINDOW_SLIDE.wav
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_WINDOW_SLIDE.wav
+END
+prefs_audio.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1/current/Base/e16/audio/prefs_audio.wav
+END
+welcome_to_e.wav
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1/current/Base/e16/audio/welcome_to_e.wav
+END
+SOUND_FOCUS_SET.wav
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_FOCUS_SET.wav
+END
+SOUND_WINDOW_CHANGE_LAYER_DOWN.wav
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_WINDOW_CHANGE_LAYER_DOWN.wav
+END
+E_wait.wav
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1/current/Base/e16/audio/E_wait.wav
+END
+SOUND_MENU_SHOW.wav
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_MENU_SHOW.wav
+END
+prefs_focus.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1/current/Base/e16/audio/prefs_focus.wav
+END
+prefs_background.wav
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1/current/Base/e16/audio/prefs_background.wav
+END
+SOUND_WINDOW_UNSTICK.wav
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_WINDOW_UNSTICK.wav
+END
+SOUND_DEICONIFY.wav
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_DEICONIFY.wav
+END
+SOUND_WINDOW_BORDER_CHANGE.wav
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_WINDOW_BORDER_CHANGE.wav
+END
+SOUND_NEW_ICONBOX.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_NEW_ICONBOX.wav
+END
+error_ipc.wav
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1/current/Base/e16/audio/error_ipc.wav
+END
+SOUND_DESKTOP_SHUT.wav
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_DESKTOP_SHUT.wav
+END
+prefs_moveresize.wav
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1/current/Base/e16/audio/prefs_moveresize.wav
+END
+prefs_desktops.wav
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1/current/Base/e16/audio/prefs_desktops.wav
+END
+dialog_already_active.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/current/Base/e16/audio/dialog_already_active.wav
+END
+SOUND_SHADE.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_SHADE.wav
+END
+prefs_kde.wav
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1/current/Base/e16/audio/prefs_kde.wav
+END
+E_scanning.wav
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1/current/Base/e16/audio/E_scanning.wav
+END
+SOUND_WINDOW_CLOSE.wav
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_WINDOW_CLOSE.wav
+END
+warning.wav
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/current/Base/e16/audio/warning.wav
+END
+SOUND_MOVE_RESIST.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_MOVE_RESIST.wav
+END
+prefs_placement.wav
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/current/Base/e16/audio/prefs_placement.wav
+END
+synclaves.wav
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1/current/Base/e16/audio/synclaves.wav
+END
+SOUND_ICONIFY.wav
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_ICONIFY.wav
+END
+logout.wav
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1/current/Base/e16/audio/logout.wav
+END
+prefs_fx.wav
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/current/Base/e16/audio/prefs_fx.wav
+END
+SOUND_WINDOW_STICK.wav
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/current/Base/e16/audio/SOUND_WINDOW_STICK.wav
+END
+prefs_groups.wav
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1/current/Base/e16/audio/prefs_groups.wav
+END

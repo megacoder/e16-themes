@@ -1,0 +1,115 @@
+StarEnli-DR16
+-------------
+
+Welcome to StarEnli-DR16 for Enlightenment.  This theme is based on the
+theme StarEnli-0.13, written by Canin <http://www.canin.tel.debica.pl/>.
+The aim in creating StarEnli-DR16 was to take the best elements of
+StarEnli-0.13, improve what could be improved, add some useful borders and
+features such as epplet and Eterm support, and, most importantly, make the
+theme Enlightenment DR16 compliant.
+
+Apart from the changes to its visual appearance, in terms of file
+arrangement and content the theme is _considerably_ different from
+StarEnli-0.13, which is why I have renamed it.  So please do not do
+anything silly like rename this theme to the old one; keep it and its files
+separate from StarEnli-0.13 if you already have it.  In any case, no
+responsibility is taken for what the use of this theme might do to your
+desktop, machine or anything else.  This theme is released under the terms
+of the GNU General Public License, which can be found in the file COPYING.
+
+Changes from 0.13
+-----------------
+
+Some of the features and improvements of StarEnli-DR16 include the
+following:
+
+- properly DR16 compliant.
+- support for epplets and Eterm auto theme (Eterm 0.9).
+- reduced size of the menu, exit and slideout buttons; they also now slide
+  left not down, and have been reordered according to my perception of the
+  frequency of their use (eg. iconify, stick and shade come first).
+- iconify button is always on title bar (no need to use slideout menu).
+- `tooltips' for pager and iconbox so you can see what program the mini is
+  an icon for. 
+- new borders including FIXED_SIZE, SHAPED, RIGHT_PAGER, SIDE, SIDE_HEADER
+  and TRANSIENT.  NB, most of these are based on old borders from the
+  StarEnli-0.13 theme or snapshot of 01/01/00, but have been changed,
+  improved and/or renamed to better reflect their usage (see ChangeLog for
+  more details).
+- nicer looking cursors.
+- better tooltips (the theme now (generally) uses the default ones instead
+  of self-defined ones).  
+- change of colour to indicate sticky window.  
+- myriad other changes which are outlined in more detail (if more
+  chaotically) in the ChangeLog.
+
+Eterms
+------
+
+If you run Eterm -t auto while running StarEnli-DR16, your Eterms should
+have a nice StarEnli-style appearance.  I chose the starry image as a
+background because I figured it was reasonably inoffensive but if you are
+like me and have a rather low tolerance for backgrounds in your Eterms, you
+should put a script called user.cfg in the following directory:
+
+~/.Eterm/themes/auto/   (where ~ = your home directory)
+
+The user.cfg file should look something like this:
+
+<Eterm-0.9>
+begin main
+ begin imageclasses
+   begin image
+         type background
+         mode solid allow trans image viewport auto
+         state normal
+         border 0 0 0 0
+   end image
+ end imageclasses 
+end main
+
+This has the effect of overriding any background image and making the
+background solid black instead.  Well, at least on my machine it does.. :)
+Of course, any other changes you want to make to your auto theme
+configuration can go in the same file.  See any Eterm theme.cfg file to see
+what other Eterm features you can configure.
+
+Gtk and .Xdefaults
+------------------
+
+Gtk and Xdefaults themes for StarEnli are currently available from Canin's
+website:
+
+http://www.canin.tel.debica.pl/linux/starenli/
+
+I use the StarEnli gtk theme written by Oliver Borowiak available at the
+above site.
+
+Once I have put my improved versions up they will be available from: 
+
+http://www.flea.org/starenli/
+
+To Do
+-----
+
+- Improve appearance of some of the curved border images if possible.
+- fix .Xdefaults and gtk themes.
+- make the navigator console not shown by default
+- support putting the navigator console in any of the four corners (or
+  anywhere) on the screen.
+
+Bugs
+----
+
+- If you change from a DEFAULT to a SIDE border, if the title of the window
+  is too long the text will go over the edge of the black background.
+  Since the SIDE border is mainly there to be used with The Gimp, it
+  shouldn't be a big issue but I would like to fix this nonetheless.
+- If you resize a DEFAULT border horizontally sometimes the black text
+  background starts to stick out the other size of the exit button.  I've
+fixed it a little but it still happens inconsistently.
+
+Hope you enjoy the theme,
+				Felicity Palmer (a.k.a flea)
+				flea@flea.org
+				http://flea.org/

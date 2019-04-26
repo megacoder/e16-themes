@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/62/current/Mozilla-modern/e16/borders
+END
+iconbox.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/current/Mozilla-modern/e16/borders/iconbox.cfg
+END
+borderless.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/current/Mozilla-modern/e16/borders/borderless.cfg
+END
+default.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/current/Mozilla-modern/e16/borders/default.cfg
+END
+menu.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15/current/Mozilla-modern/e16/borders/menu.cfg
+END
+shaped.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15/current/Mozilla-modern/e16/borders/shaped.cfg
+END
+transient.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/current/Mozilla-modern/e16/borders/transient.cfg
+END
+fixed_frame.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/62/current/Mozilla-modern/e16/borders/fixed_frame.cfg
+END
+pager_right.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/current/Mozilla-modern/e16/borders/pager_right.cfg
+END
+menu_frame.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/62/current/Mozilla-modern/e16/borders/menu_frame.cfg
+END
+pager.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/19/current/Mozilla-modern/e16/borders/pager.cfg
+END

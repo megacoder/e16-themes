@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork
+END
+btn_exec_terminal_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_terminal_clicked.png
+END
+btn_exec_paint_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_paint_clicked.png
+END
+btn_action_help_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_action_help_clicked.png
+END
+btn_exec_mail_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_mail_clicked.png
+END
+btn_mapslide_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_mapslide_normal.png
+END
+btn_action_deskray_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_action_deskray_normal.png
+END
+btn_slidemode_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_slidemode_hilited.png
+END
+btn_cleanslide_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_cleanslide_normal.png
+END
+btn_exec_config_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_config_hilited.png
+END
+btn_action_exit_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_action_exit_normal.png
+END
+btn_dragdir_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_dragdir_hilited.png
+END
+btn_deskslide_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_deskslide_normal.png
+END
+btn_focus_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_focus_hilited.png
+END
+btn_slidemode_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_slidemode_clicked.png
+END
+btn_dragdir_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_dragdir_normal.png
+END
+btn_exec_terminal_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_terminal_normal.png
+END
+btn_exec_paint_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_paint_normal.png
+END
+btn_exec_config_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_config_clicked.png
+END
+btn_action_restart_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_action_restart_normal.png
+END
+btn_dragdir_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_dragdir_clicked.png
+END
+btn_focus_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_focus_clicked.png
+END
+btn_exec_edit_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_edit_normal.png
+END
+btn_move_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_move_hilited.png
+END
+btn_resize_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_resize_normal.png
+END
+btn_action_restart_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_action_restart_hilited.png
+END
+btn_move_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_move_clicked.png
+END
+btn_action_cleanup_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_action_cleanup_hilited.png
+END
+btn_focus_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_focus_normal.png
+END
+btn_exec_web_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_web_normal.png
+END
+btn_exec_imageview_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_imageview_normal.png
+END
+btn_autosave_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_autosave_hilited.png
+END
+btn_sound_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_sound_hilited.png
+END
+btn_exec_edit_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_edit_hilited.png
+END
+btn_action_cleanup_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_action_cleanup_normal.png
+END
+btn_exec_mail_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_mail_normal.png
+END
+btn_action_restart_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_action_restart_clicked.png
+END
+btn_mapslide_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_mapslide_hilited.png
+END
+btn_sound_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_sound_normal.png
+END
+btn_action_cleanup_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_action_cleanup_clicked.png
+END
+btn_resize_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_resize_hilited.png
+END
+btn_autosave_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_autosave_clicked.png
+END
+btn_sound_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_sound_clicked.png
+END
+btn_exec_edit_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_edit_clicked.png
+END
+btn_action_exit_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_action_exit_hilited.png
+END
+btn_mapslide_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_mapslide_clicked.png
+END
+btn_resize_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_resize_clicked.png
+END
+btn_dragorder_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_dragorder_normal.png
+END
+btn_exec_web_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_web_hilited.png
+END
+btn_exec_imageview_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_imageview_hilited.png
+END
+btn_action_exit_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_action_exit_clicked.png
+END
+btn_exec_music_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_music_hilited.png
+END
+btn_exec_music_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_music_normal.png
+END
+btn_action_help_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_action_help_normal.png
+END
+btn_exec_web_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_web_clicked.png
+END
+btn_exec_imageview_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_imageview_clicked.png
+END
+btn_autosave_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_autosave_normal.png
+END
+btn_action_deskray_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_action_deskray_hilited.png
+END
+btn_exec_music_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_music_clicked.png
+END
+btn_cleanslide_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_cleanslide_hilited.png
+END
+btn_deskslide_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_deskslide_hilited.png
+END
+btn_dragorder_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_dragorder_hilited.png
+END
+btn_action_deskray_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_action_deskray_clicked.png
+END
+btn_slidemode_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_slidemode_normal.png
+END
+btn_move_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_move_normal.png
+END
+btn_exec_terminal_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_terminal_hilited.png
+END
+btn_exec_paint_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_paint_hilited.png
+END
+btn_exec_config_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_config_normal.png
+END
+btn_cleanslide_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_cleanslide_clicked.png
+END
+btn_deskslide_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_deskslide_clicked.png
+END
+btn_action_help_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_action_help_hilited.png
+END
+btn_dragorder_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_dragorder_clicked.png
+END
+btn_exec_mail_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/current/SphereBlast/e16/desktopbuttons/artwork/btn_exec_mail_hilited.png
+END

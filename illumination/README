@@ -1,0 +1,26 @@
+This is based on my Illumination gtk-theme. To use the buttons that originally
+came with this theme, copy buttons.cfg in the theme's sldbtns directory to the
+main Illumination directory.
+
+gtk-theme at gtk.themes.org (still working on it) and gkrellm theme at muhri.net
+
+Created and modified by: Scott Kingston (AKA Alter-ID)
+Sept. 15th, 1999
+
+Updated Nov. 8, 1999 (New Design)
+Update Feb. 20, 2000 (Added middle-button-click to (un)shade, new oval buttons,
+"normalized" a lot of the graphics, and changed the backgrounds, changed eterm pics)
+Update March 26, 2000 (Changed images and font color for edocs(which still sucks),
+improved menu (epplet menu is in two columns instead on one long one)).
+Update March 31, 2000 (Changed backgrounds, buttons and borders. Fixed some border
+problems, changed cursor colors as well as text colors). 
+
+NEW SITE at freeservers.com! Just got it started, but it has a link to this theme 
+at e.themes.org and few pics.
+
+homepage:
+http://alterid.8k.com
+
+email:
+ascottk@home.com
+

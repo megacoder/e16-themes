@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1/current/Warp/e16/audio
+END
+drop.wav
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1/current/Warp/e16/audio/drop.wav
+END
+close.wav
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1/current/Warp/e16/audio/close.wav
+END
+warning.wav
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/current/Warp/e16/audio/warning.wav
+END
+DSK_ERR.wav
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/current/Warp/e16/audio/DSK_ERR.wav
+END
+DSK_PERR.wav
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/current/Warp/e16/audio/DSK_PERR.wav
+END
+DSK_LCKP.wav
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/current/Warp/e16/audio/DSK_LCKP.wav
+END
+shutdown.wav
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/current/Warp/e16/audio/shutdown.wav
+END
+DSK_INFO.wav
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/current/Warp/e16/audio/DSK_INFO.wav
+END
+drag.wav
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1/current/Warp/e16/audio/drag.wav
+END
+DSK_ALAR.wav
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/current/Warp/e16/audio/DSK_ALAR.wav
+END
+DSK_SHRD.wav
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/current/Warp/e16/audio/DSK_SHRD.wav
+END
+open.wav
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1/current/Warp/e16/audio/open.wav
+END
+startup.wav
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/current/Warp/e16/audio/startup.wav
+END

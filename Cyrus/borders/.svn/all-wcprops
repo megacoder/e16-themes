@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/24/current/Cyrus/e16/borders
+END
+iconbox.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/current/Cyrus/e16/borders/iconbox.cfg
+END
+borderless.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/current/Cyrus/e16/borders/borderless.cfg
+END
+default.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/current/Cyrus/e16/borders/default.cfg
+END
+menu.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/current/Cyrus/e16/borders/menu.cfg
+END
+side.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/current/Cyrus/e16/borders/side.cfg
+END
+pager_mini_right.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/24/current/Cyrus/e16/borders/pager_mini_right.cfg
+END
+transient.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/current/Cyrus/e16/borders/transient.cfg
+END
+pager_mini.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/24/current/Cyrus/e16/borders/pager_mini.cfg
+END
+eterm.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/current/Cyrus/e16/borders/eterm.cfg
+END
+pager.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/current/Cyrus/e16/borders/pager.cfg
+END
+fixed.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/current/Cyrus/e16/borders/fixed.cfg
+END

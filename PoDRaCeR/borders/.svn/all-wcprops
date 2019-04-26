@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/18/current/PoDRaCeR/e16/borders
+END
+menu_border.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/current/PoDRaCeR/e16/borders/menu_border.cfg
+END
+borderless.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15/current/PoDRaCeR/e16/borders/borderless.cfg
+END
+default.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/current/PoDRaCeR/e16/borders/default.cfg
+END
+shaped.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/current/PoDRaCeR/e16/borders/shaped.cfg
+END
+transient.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/current/PoDRaCeR/e16/borders/transient.cfg
+END
+full_titlebar.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/18/current/PoDRaCeR/e16/borders/full_titlebar.cfg
+END
+trans_full_title.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/current/PoDRaCeR/e16/borders/trans_full_title.cfg
+END

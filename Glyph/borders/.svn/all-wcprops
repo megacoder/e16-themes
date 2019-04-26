@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/66/current/Glyph/e16/borders
+END
+borderless.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/current/Glyph/e16/borders/borderless.cfg
+END
+default.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/current/Glyph/e16/borders/default.cfg
+END
+transient.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/current/Glyph/e16/borders/transient.cfg
+END
+fixed_size.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/66/current/Glyph/e16/borders/fixed_size.cfg
+END

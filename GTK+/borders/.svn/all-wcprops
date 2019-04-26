@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/15/current/GTK+/e16/borders
+END
+side_right.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/current/GTK+/e16/borders/side_right.cfg
+END
+pager_bottom.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/current/GTK+/e16/borders/pager_bottom.cfg
+END
+default.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/15/current/GTK+/e16/borders/default.cfg
+END
+transient_fixed.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/current/GTK+/e16/borders/transient_fixed.cfg
+END
+fixed_size.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/current/GTK+/e16/borders/fixed_size.cfg
+END
+frame.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/current/GTK+/e16/borders/frame.cfg
+END
+transient_fixed_gtk.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/current/GTK+/e16/borders/transient_fixed_gtk.cfg
+END
+gimp.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/current/GTK+/e16/borders/gimp.cfg
+END
+side_left.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/current/GTK+/e16/borders/side_left.cfg
+END
+fixed_size_gtk.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15/current/GTK+/e16/borders/fixed_size_gtk.cfg
+END
+dialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/current/GTK+/e16/borders/dialog.cfg
+END
+iconbox.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/15/current/GTK+/e16/borders/iconbox.cfg
+END
+menu.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/current/GTK+/e16/borders/menu.cfg
+END
+borderless.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/current/GTK+/e16/borders/borderless.cfg
+END
+side_top.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/current/GTK+/e16/borders/side_top.cfg
+END
+border_only_small.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/current/GTK+/e16/borders/border_only_small.cfg
+END
+transient.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/current/GTK+/e16/borders/transient.cfg
+END
+side_bottom.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/current/GTK+/e16/borders/side_bottom.cfg
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/19/current/Alpha/e16/borders
+END
+borderless.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/current/Alpha/e16/borders/borderless.cfg
+END
+default.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/current/Alpha/e16/borders/default.cfg
+END
+menu.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/current/Alpha/e16/borders/menu.cfg
+END
+shaped.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/15/current/Alpha/e16/borders/shaped.cfg
+END
+mini.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/current/Alpha/e16/borders/mini.cfg
+END
+pager.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/current/Alpha/e16/borders/pager.cfg
+END
+fixed.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/current/Alpha/e16/borders/fixed.cfg
+END

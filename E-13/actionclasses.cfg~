@@ -1,0 +1,813 @@
+#include <definitions>
+
+__ACLASS __BGN
+  __NAME ACTION_BUTTON_DRAG
+  __TOOLTIP_TEXT "Click and drag to move desktop"
+  __TOOLTIP_TEXT "(on any desktop but desktop 0)"
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  anykey __ON
+  event __MOUSE_PRESS
+  __ACTION __A_DRAG_BUTTON
+__END
+
+__ACLASS __BGN
+  __NAME GLOBAL_ACTION_CLEANUP
+  __TYPE __TYPE_GLOBAL
+  __KEY Home
+  __MODIFIER_KEY __CTRL_ALT
+  __EVENT __KEY_RELEASE
+  __ACTION __A_CLEANUP size
+__END
+
+__ACLASS __BGN
+  __NAME GLOBAL_ACTION_EXEC_TERMINAL
+  __TYPE __TYPE_GLOBAL
+  __EVENT __KEY_RELEASE
+  __MODIFIER_KEY __CTRL_ALT
+  __KEY Insert
+  __ACTION __A_EXEC Eterm
+__END
+
+__ACLASS __BGN
+  __NAME GLOBAL_ACTION_DESKRAY
+  __TYPE __TYPE_GLOBAL
+  __KEY v
+  __MODIFIER_KEY __CTRL_ALT
+  __EVENT __KEY_RELEASE
+  __ACTION __A_DESKRAY
+__END
+
+__ACLASS __BGN
+  __NAME GLOBAL_ACTION_EXIT
+  __TYPE __TYPE_GLOBAL
+  __KEY Delete
+  __EVENT __KEY_RELEASE
+  __MODIFIER_KEY __CTRL_ALT
+  __ACTION __A_EXIT
+  __NEXT_ACTION
+  __KEY End
+  __EVENT __KEY_RELEASE
+  __MODIFIER_KEY __CTRL_ALT
+  __ACTION __A_EXIT restart
+__END
+
+__ACLASS __BGN
+  __NAME GLOBAL_ACTION_DESKNAV
+  __TYPE __TYPE_GLOBAL
+  __KEY Right
+  __EVENT __KEY_RELEASE
+  __MODIFIER_KEY __CTRL_ALT
+  __ACTION __A_DESKTOP_NEXT
+  __NEXT_ACTION
+  __KEY Left
+  __EVENT __KEY_RELEASE
+  __MODIFIER_KEY __CTRL_ALT
+  __ACTION __A_DESKTOP_PREV
+  __NEXT_ACTION
+  __KEY Return
+  __EVENT __KEY_RELEASE
+  __MODIFIER_KEY __CTRL_ALT
+  __ACTION __A_DESKTOP_INPLACE
+  __NEXT_ACTION
+  __KEY Left
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __CTRL
+  __ACTION __A_SCROLL_WINDOWS 16 0
+  __NEXT_ACTION
+  __KEY Right
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __CTRL
+  __ACTION __A_SCROLL_WINDOWS -16 0
+  __NEXT_ACTION
+  __KEY Up
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __CTRL
+  __ACTION __A_SCROLL_WINDOWS 0 16
+  __NEXT_ACTION
+  __KEY Down
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __CTRL
+  __ACTION __A_SCROLL_WINDOWS 0 -16
+  __NEXT_ACTION
+  __KEY Down
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT_SHIFT
+  __ACTION __A_AREA_MOVE_BY 0 1
+  __NEXT_ACTION
+  __KEY Up
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT_SHIFT
+  __ACTION __A_AREA_MOVE_BY 0 -1
+  __NEXT_ACTION
+  __KEY Left
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT_SHIFT
+  __ACTION __A_AREA_MOVE_BY -1 0
+  __NEXT_ACTION
+  __KEY Right
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT_SHIFT
+  __ACTION __A_AREA_MOVE_BY 1 0
+__END
+
+__ACLASS __BGN
+  __NAME GLOBAL_ACTION_DESKNAV_GOTO
+  __TYPE __TYPE_GLOBAL
+  __KEY F1
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT
+  __ACTION __A_GOTO_DESK 0
+  __NEXT_ACTION
+  __KEY F2
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT
+  __ACTION __A_GOTO_DESK 1
+  __NEXT_ACTION
+  __KEY F3
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT
+  __ACTION __A_GOTO_DESK 2
+  __NEXT_ACTION
+  __KEY F4
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT
+  __ACTION __A_GOTO_DESK 3
+  __NEXT_ACTION
+  __KEY F5
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT
+  __ACTION __A_GOTO_DESK 4
+  __NEXT_ACTION
+  __KEY F6
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT
+  __ACTION __A_GOTO_DESK 5
+  __NEXT_ACTION
+  __KEY F7
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT
+  __ACTION __A_GOTO_DESK 6
+  __NEXT_ACTION
+  __KEY F8
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT
+  __ACTION __A_GOTO_DESK 7
+  __NEXT_ACTION
+  __KEY F9
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT
+  __ACTION __A_GOTO_DESK 8
+  __NEXT_ACTION
+  __KEY F10
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT
+  __ACTION __A_GOTO_DESK 9
+  __NEXT_ACTION
+  __KEY F11
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT
+  __ACTION __A_GOTO_DESK 10
+  __NEXT_ACTION
+  __KEY F12
+  __EVENT __KEY_PRESS
+  __MODIFIER_KEY __ALT
+  __ACTION __A_GOTO_DESK 11
+__END
+
+__ACLASS __BGN
+  __NAME CHANGER_GOTO_DESK_0
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_GOTO_DESK 0
+__END
+
+__ACLASS __BGN
+  __NAME CHANGER_GOTO_DESK_1
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_GOTO_DESK 1
+__END
+
+__ACLASS __BGN
+  __NAME CHANGER_GOTO_DESK_2
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON  
+  __ACTION __A_GOTO_DESK 2
+__END
+
+__ACLASS __BGN
+  __NAME CHANGER_GOTO_DESK_3
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_GOTO_DESK 3
+__END
+
+__ACLASS __BGN
+  __NAME GLOBAL_CHANGE_DRAGDIR
+  __TYPE __TYPE_GLOBAL
+  __EVENT __KEY_RELEASE
+  __MODIFIER_KEY __CTRL_ALT
+  __KEY d
+  __ACTION __A_DRAGDIR_SET
+__END
+
+__ACLASS __BGN
+  __NAME GLOBAL_CHANGE_DRAGORDER
+  __TYPE __TYPE_GLOBAL
+  __EVENT __KEY_RELEASE
+  __MODIFIER_KEY __CTRL_ALT
+  __KEY o
+  __ACTION __A_DRAGBAR_ORDER_SET
+__END
+
+__ACLASS __BGN
+  __NAME GLOBAL_ACTION_HIDEBUTTONS
+  __TYPE __TYPE_GLOBAL
+  __KEY c
+  __EVENT __KEY_RELEASE
+  __MODIFIER_KEY __CTRL_ALT
+  __ACTION __A_HIDESHOW_BUTTON buttons CONFIG*
+  __NEXT_ACTION
+  __KEY b
+  __EVENT __KEY_RELEASE
+  __MODIFIER_KEY __CTRL_ALT
+  __ACTION __A_HIDESHOW_BUTTON
+  __NEXT_ACTION
+  __KEY a
+  __EVENT __KEY_RELEASE
+  __MODIFIER_KEY __CTRL_ALT
+  __ACTION __A_HIDESHOW_BUTTON all
+__END
+
+__ACLASS __BGN
+  __NAME GLOBAL_ACTION_WINDOW_CONTROLS
+  __TYPE __TYPE_GLOBAL
+  __MODIFIER_KEY __ALT
+  __KEY Tab
+  __EVENT __KEY_PRESS
+  __ACTION __A_FOCUS_NEXT
+  __NEXT_ACTION
+  __MODIFIER_KEY __CTRL_ALT
+  __KEY Up
+  __EVENT __KEY_RELEASE
+  __ACTION __A_RAISE
+  __NEXT_ACTION
+  __MODIFIER_KEY __CTRL_ALT
+  __KEY Down
+  __EVENT __KEY_RELEASE
+  __ACTION __A_LOWER
+  __NEXT_ACTION
+  __MODIFIER_KEY __CTRL_ALT
+  __KEY x
+  __EVENT __KEY_RELEASE
+  __ACTION __A_KILL
+  __NEXT_ACTION
+  __MODIFIER_KEY __CTRL_ALT
+  __KEY k
+  __EVENT __KEY_RELEASE
+  __ACTION __A_KILL_NASTY
+  __NEXT_ACTION
+  __MODIFIER_KEY __CTRL_ALT
+  __KEY s
+  __EVENT __KEY_RELEASE
+  __ACTION __A_STICK
+  __NEXT_ACTION
+  __MODIFIER_KEY __CTRL_ALT
+  __KEY i
+  __EVENT __KEY_RELEASE
+  __ACTION __A_ICONIFY
+  __NEXT_ACTION
+  __MODIFIER_KEY __CTRL_ALT
+  __KEY r
+  __EVENT __KEY_RELEASE
+  __ACTION __A_SHADE
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_CONFIG_SOUND_TOGGLE
+  __TOOLTIP_TEXT "Toggle Sound in Enlightenment on or off."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_SOUND_SET
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_CONFIG_MOVE_TOGGLE
+  __TOOLTIP_TEXT "Toggle Move Display Mode to cycle from Opaque to"
+  __TOOLTIP_TEXT "Line, to Box, to Shaded to Shaped."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_MOVEMODE_SET
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_CONFIG_RESIZE_TOGGLE
+  __TOOLTIP_TEXT "Toggle Resize Display Mode to cycle from Opaque to"
+  __TOOLTIP_TEXT "Line, to Box, to Shaded to Shaped."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_RESIZEMODE_SET
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_CONFIG_MAPSLIDE_TOGGLE
+  __TOOLTIP_TEXT "Toggle the sliding in of new windows when they display."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_MAPSLIDE_SET
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_CONFIG_DESKSLIDE_TOGGLE
+  __TOOLTIP_TEXT "Toggle Sliding in of Desktops on / off when changing"
+  __TOOLTIP_TEXT "Desktops."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_DESKSLIDE_SET
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_CONFIG_CLEANSLIDE_TOGGLE
+  __TOOLTIP_TEXT "Toggle Sliding of Windows at all when cleaning up the"
+  __TOOLTIP_TEXT "Windows on the Desktop."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_CLEANUPSLIDE_SET
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_CONFIG_SLIDEMODE_TOGGLE
+  __TOOLTIP_TEXT "Toggle Sliding Display Mode to cycle from Opaque to"
+  __TOOLTIP_TEXT "Line, to Box, to Shaded to Shaped."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_SLIDEMODE_SET
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_CONFIG_DRAGDIR_TOGGLE
+  __TOOLTIP_TEXT "Toggle Dragbar Direction from top to bottom to left to right"
+  __TOOLTIP_TEXT "sides of the screen."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_DRAGDIR_SET
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_CONFIG_DRAGORDER_TOGGLE
+  __TOOLTIP_TEXT "Toggle the order of the bar and raise/lower buttons on the"
+  __TOOLTIP_TEXT "dragbar."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_DRAGBAR_ORDER_SET
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_CONFIG_FOCUS_TOGGLE
+  __TOOLTIP_TEXT "Toggle Focus Type from Pointer to Sloppy to Click to Focus"
+  __TOOLTIP_TEXT "focus types."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_FOCUSMODE_SET
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_CONFIG_AUTOSAVE_TOGGLE
+  __TOOLTIP_TEXT "Toggle The Autosave on and off - when off the previous"
+  __TOOLTIP_TEXT "autosaved settings will be destroyed and Enlightenment"
+  __TOOLTIP_TEXT "will inherit the default settings."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_AUTOSAVE_SET
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_GOTO_DESK_NEXT
+  __TOOLTIP_TEXT "Go to the next Desktop."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_DESKTOP_NEXT
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_GOTO_DESK_PREV
+  __TOOLTIP_TEXT "Go to the previous Desktop."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_DESKTOP_PREV
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_MOVE
+  __TOOLTIP_TEXT "Hold down left mouse button and drag to move this Window."
+  __TOOLTIP_TEXT "Double click left mouse button for more window operations."
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_PRESS
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_RAISE
+  __ACTION __A_MOVE
+  __NEXT_ACTION
+  __EVENT __DOUBLE_CLICK
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_SHADE
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_RESIZE
+  __TOOLTIP_TEXT "Hold down left mouse button and drag to resize this window in any"
+  __TOOLTIP_TEXT "direction. Clicking right mouse button and dragging the mouse"
+  __TOOLTIP_TEXT "around will move the window about instead."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_PRESS
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __BUTTON 1
+  __ACTION __A_RESIZE
+  __NEXT_ACTION
+  __BUTTON 3
+  __ACTION __A_MOVE
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_RESIZE_H
+  __TOOLTIP_TEXT "Hold down left mouse button and drag to resize this window"
+  __TOOLTIP_TEXT "horizontally. Clicking right mouse button and dragging the mouse"
+  __TOOLTIP_TEXT "around will move the window about instead."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_PRESS
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __BUTTON 1
+  __ACTION __A_RESIZE_H
+  __NEXT_ACTION
+  __BUTTON 3
+  __ACTION __A_MOVE
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_RESIZE_V
+  __TOOLTIP_TEXT "Hold down left mouse button and drag to resize this window"
+  __TOOLTIP_TEXT "vertically. Clicking right mouse button and dragging the mouse"
+  __TOOLTIP_TEXT "around will move the window about instead."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_PRESS
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __BUTTON 1
+  __ACTION __A_RESIZE_V
+  __NEXT_ACTION
+  __BUTTON 3
+  __ACTION __A_MOVE
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_KILL
+  __TOOLTIP_TEXT "Clicking left mouse button will kill this window. Clicking"
+  __TOOLTIP_TEXT "right mouse button will forcibly destroy this window."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __BUTTON 1
+  __ACTION __A_KILL
+  __NEXT_ACTION
+  __BUTTON 3
+  __ACTION __A_KILL_NASTY
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_MAXH
+  __TOOLTIP_TEXT "Toggle the height of this window between maximum screen height"
+  __TOOLTIP_TEXT "and normal height."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_MAX_HEIGHT
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_MAXW
+  __TOOLTIP_TEXT "Toggle the width of this window between maximum screen width"
+  __TOOLTIP_TEXT "and normal width."
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_MAX_WIDTH
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_MAX
+  __TOOLTIP_TEXT "Toggle the size of this window between maximum screen size"
+  __TOOLTIP_TEXT "and normal size."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_MAX_SIZE
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_SEND_NEXT
+  __TOOLTIP_TEXT "Send this Window to the next desktop."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_SEND_TO_NEXT_DESK
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_SEND_PREV
+  __TOOLTIP_TEXT "Send this Window to the previous desktop."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_SEND_TO_PREV_DESK
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_SNAPSHOT
+  __TOOLTIP_TEXT "This button does nothing interesting."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_SNAPSHOT
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_SHADE
+  __TOOLTIP_TEXT "This button toggles the shaded (Rolled up) state of this Window."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_SHADE
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_ICONIFY
+  __TOOLTIP_TEXT "Left click on this button to Iconify (Minimize) this window."
+  __TOOLTIP_TEXT "Right click on this button for more window operations"
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __EVENT __MOUSE_RELEASE
+  __BUTTON 1
+  __ACTION __A_ICONIFY
+  __NEXT_ACTION
+  __EVENT __MOUSE_PRESS
+  __BUTTON 3
+  __ACTION __A_SHOW_MENU "named WINOPS_MENU"
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_WINDOW_SLIDEOUT
+  __TOOLTIP_TEXT "Click on this button to bring up a bar of more buttons to control"
+  __TOOLTIP_TEXT "the Window with."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_SLIDEOUT mainwindowslider
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_CONFIG_SLIDEOUT
+  __TOOLTIP_TEXT "Click on this button to bring out the toggle slideout."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_SLIDEOUT togglebuttonslideout
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_CONTROL_SLIDEOUT
+  __TOOLTIP_TEXT "Click on this buttin to bring out the control slideout."
+  __TYPE __TYPE_NORMAL
+  __ALLOW_ANY_BUTTON __ON
+  __EVENT __MOUSE_RELEASE
+  __ACTION __A_SLIDEOUT controlbuttonslideout
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_RAISE
+  __TOOLTIP_TEXT "Click on this button to raise this window to the top."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_RAISE
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_LOWER
+  __TOOLTIP_TEXT "Click here to lower this window."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_LOWER
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_STICK
+  __TOOLTIP_TEXT "Click on this button to toggle the sticky (is visible on all"
+  __TOOLTIP_TEXT "Desktops) state of this window. The border will look different"
+  __TOOLTIP_TEXT "when the window is sticky."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_STICK
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_EXEC_TERMINAL
+  __TOOLTIP_TEXT "Terminal Emulators"
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __BUTTON 1
+  __ACTION __A_EXEC Eterm --trans --shade 38
+  __NEXT_ACTION
+  __BUTTON 2
+  __ACTION __A_EXEC Eterm
+  __NEXT_ACTION
+  __BUTTON 3
+  __ACTION __A_EXEC eterm1
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_EXEC_MAIL
+  __TOOLTIP_TEXT "Mail Readers"
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __BUTTON 1
+  __ACTION __A_EXEC tkrat
+  __NEXT_ACTION
+  __BUTTON 2
+  __ACTION __A_EXEC balsa
+  __NEXT_ACTION
+  __BUTTON 3
+  __ACTION __A_EXEC Eterm -e mutt
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_EXEC_WEB
+  __TOOLTIP_TEXT "Netscape"
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_EXEC netscape
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_EXEC_MUSIC
+  __TOOLTIP_TEXT "Music"
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __BUTTON 1
+  __ACTION __A_EXEC x11amp
+  __NEXT_ACTION
+  __BUTTON 2
+  __ACTION __A_EXEC gmix
+  __NEXT_ACTION
+  __BUTTON 3
+  __ACTION __A_EXEC gtcd
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_EXEC_IMAGEVIEW
+  __TOOLTIP_TEXT "Image Viewing Apps"
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __BUTTON 1
+  __ACTION __A_EXEC ee
+  __NEXT_ACTION
+  __BUTTON 2
+  __ACTION __A_EXEC display
+  __NEXT_ACTION
+  __BUTTON 3
+  __ACTION __A_EXEC xv
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_EXEC_PAINT
+  __TOOLTIP_TEXT "Drawing Apps"
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __BUTTON 1
+  __ACTION __A_EXEC gimp
+  __NEXT_ACTION
+  __BUTTON 2
+  __ACTION __A_EXEC xpaint
+  __NEXT_ACTION
+  __BUTTON 3
+  __ACTION __A_EXEC xmag
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_EXEC_EDIT
+  __TOOLTIP_TEXT "Text Editor"
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __BUTTON 1
+  __ACTION __A_EXEC Eterm --trans --shade 38 -e jed
+  __NEXT_ACTION
+  __BUTTON 2
+  __ACTION __A_EXEC gedit
+  __NEXT_ACTION
+  __BUTTON 3
+  __ACTION __A_EXEC xwp
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_EXEC_CONFIG
+  __TOOLTIP_TEXT "Click on this button to configure Enlightenment."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_EXEC gnomecc
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_ACTION_EXIT
+  __TOOLTIP_TEXT "Click on this button to Exit Enlightenment."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_EXIT
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_ACTION_RESTART
+  __TOOLTIP_TEXT "Click here to Rwstart Enlightenment."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_EXIT restart
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_ACTION_HELP
+  __TOOLTIP_TEXT "Click here to read the online documentation on how to use"
+  __TOOLTIP_TEXT "Enlightenment. It is highly recommend you do this if you are"
+  __TOOLTIP_TEXT "unfamiliar with Enlightenment."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_EXEC  ENLIGHTENMENT_BIN/dox  ENLIGHTENMENT_ROOT/E-docs
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_ACTION_CLEANUP
+  __TOOLTIP_TEXT "Clean up all the windows on your desktop so they are all neat"
+  __TOOLTIP_TEXT "and tidy."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_CLEANUP size
+__END
+
+__ACLASS __BGN
+  __NAME ACTION_ACTION_DESKRAY
+  __TOOLTIP_TEXT "Turn Deskrays on (Display handles for all desktops to enable"
+  __TOOLTIP_TEXT "dragging of desktops whose dragbars are not visible)."
+  __TYPE __TYPE_NORMAL
+  __EVENT __MOUSE_RELEASE
+  __ALLOW_ANY_MODIFIER_KEYS __ON
+  __ALLOW_ANY_BUTTON __ON
+  __ACTION __A_DESKRAY
+__END
