@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1/current/GTK+/e16/artwork/dialogs
+END
+slider_base.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/current/GTK+/e16/artwork/dialogs/slider_base.png
+END
+slider_knob_vert_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1/current/GTK+/e16/artwork/dialogs/slider_knob_vert_hilited.png
+END
+slider_knob_horiz_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1/current/GTK+/e16/artwork/dialogs/slider_knob_horiz_normal.png
+END
+separator.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/current/GTK+/e16/artwork/dialogs/separator.png
+END
+radio_button_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1/current/GTK+/e16/artwork/dialogs/radio_button_normal.png
+END
+slider_knob_vert_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1/current/GTK+/e16/artwork/dialogs/slider_knob_vert_normal.png
+END
+radio_button_hilited_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1/current/GTK+/e16/artwork/dialogs/radio_button_hilited_active.png
+END
+radio_button_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1/current/GTK+/e16/artwork/dialogs/radio_button_clicked.png
+END
+slider_knob_horiz_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1/current/GTK+/e16/artwork/dialogs/slider_knob_horiz_hilited.png
+END
+radio_button_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1/current/GTK+/e16/artwork/dialogs/radio_button_hilited.png
+END

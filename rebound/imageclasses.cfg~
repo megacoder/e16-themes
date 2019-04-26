@@ -1,0 +1,2257 @@
+#include <definitions>
+
+__E_CFG_VERSION 0
+
+__ICLASS __BGN
+  __NAME TITLE_BAR_HORIZONTAL
+  __NORMAL  "pix/border/titlebar_2.png"
+  __EDGE_SCALING 9 18 9 2
+  __HILITED "pix/border/titlebar_2.png"
+  __EDGE_SCALING 9 18 9 2
+  __CLICKED "pix/border/titlebar_2.png"
+  __EDGE_SCALING 9 18 9 2
+  __NORMAL_ACTIVE  "pix/border/titlebar_1.png"
+  __MODIFIER TITLE_COLOR_MOD
+  __EDGE_SCALING 9 18 9 3
+  __HILITED_ACTIVE "pix/border/titlebar_1.png"
+  __MODIFIER TITLE_COLOR_MOD
+  __EDGE_SCALING 9 18 9 3
+  __CLICKED_ACTIVE "pix/border/titlebar_1.png"
+  __MODIFIER TITLE_COLOR_MOD
+  __EDGE_SCALING 9 18 9 3
+  __NORMAL_STICKY  "pix/border/titlebar_2.png"
+  __EDGE_SCALING 9 18 9 2
+  __HILITED_STICKY "pix/border/titlebar_2.png"
+  __EDGE_SCALING 9 18 9 2
+  __CLICKED_STICKY "pix/border/titlebar_1.png"
+  __EDGE_SCALING 9 18 9 2
+  __NORMAL_ACTIVE_STICKY  "pix/border/titlebar_1.png"
+  __EDGE_SCALING 9 18 9 2
+  __NORMAL_ACTIVE_HILITED "pix/border/titlebar_1.png"
+  __EDGE_SCALING 9 18 9 2
+  __NORMAL_ACTIVE_CLICKED "pix/border/titlebar_1.png"
+  __EDGE_SCALING 9 18 9 2
+  __PADDING 2 20 3 1
+  __MODIFIER TITLE_COLOR_MOD
+__END
+
+__ICLASS __BGN
+  __NAME BACK_JOX
+  __NORMAL  "pix/border/back.png"
+  __EDGE_SCALING 9 3 9 2
+  __HILITED "pix/border/back.png"
+  __EDGE_SCALING 9 3 9 2
+  __CLICKED "pix/border/back.png"
+  __EDGE_SCALING 9 3 9 2
+  __NORMAL_ACTIVE  "pix/border/back.png"
+  __MODIFIER TITLE_COLOR_MOD
+  __EDGE_SCALING 9 3 9 3
+  __HILITED_ACTIVE "pix/border/back.png"
+  __MODIFIER TITLE_COLOR_MOD
+  __EDGE_SCALING 9 3 9 3
+  __CLICKED_ACTIVE "pix/border/back.png"
+  __MODIFIER TITLE_COLOR_MOD
+  __EDGE_SCALING 9 3 9 3
+  __NORMAL_STICKY  "pix/border/back.png"
+  __EDGE_SCALING 9 3 9 2
+  __HILITED_STICKY "pix/border/back.png"
+  __EDGE_SCALING 9 3 9 2
+  __CLICKED_STICKY "pix/border/back.png"
+  __EDGE_SCALING 9 3 9 2
+  __NORMAL_ACTIVE_STICKY  "pix/border/back.png"
+  __EDGE_SCALING 9 3 9 2
+  __NORMAL_ACTIVE_HILITED "pix/border/back.png"
+  __EDGE_SCALING 9 3 9 2
+  __NORMAL_ACTIVE_CLICKED "pix/border/back.png"
+  __EDGE_SCALING 9 3 9 2
+  __PADDING 9 2 3 1
+  __MODIFIER TITLE_COLOR_MOD
+__END
+
+__ICLASS __BGN
+  __NAME BAR_HORIZONTAL
+  __NORMAL  "pix/border/bar_horizontal.png"
+  __EDGE_SCALING 23 23 1 1
+  __HILITED "pix/border/bar_horizontal.png"
+  __EDGE_SCALING 23 23 1 1
+  __CLICKED "pix/border/bar_horizontal.png"
+  __EDGE_SCALING 23 23 1 1
+  __NORMAL_ACTIVE  "pix/border/bar_horizontal.png"
+  __EDGE_SCALING 23 23 1 1
+  __HILITED_ACTIVE "pix/border/bar_horizontal.png"
+  __EDGE_SCALING 23 23 1 1
+  __CLICKED_ACTIVE "pix/border/bar_horizontal.png"
+  __EDGE_SCALING 23 23 1 1
+  __NORMAL_STICKY  "pix/border/bar_horizontal.png"
+  __EDGE_SCALING 23 23 1 1
+  __HILITED_STICKY "pix/border/bar_horizontal.png"
+  __EDGE_SCALING 23 23 1 1
+  __CLICKED_STICKY "pix/border/bar_horizontal.png"
+  __EDGE_SCALING 23 23 1 1
+  __NORMAL_ACTIVE_STICKY  "pix/border/bar_horizontal.png"
+  __EDGE_SCALING 23 23 1 1
+  __NORMAL_ACTIVE_HILITED "pix/border/bar_horizontal.png"
+  __EDGE_SCALING 23 23 1 1
+  __NORMAL_ACTIVE_CLICKED "pix/border/bar_horizontal.png"
+  __EDGE_SCALING 23 23 1 1
+  __PADDING 9 2 3 1
+__END
+
+__ICLASS __BGN
+  __NAME TOPSPACE
+  __NORMAL  "pix/border/topspace.png"
+  __EDGE_SCALING 1 18 1 1
+  __HILITED "pix/border/topspace.png"
+  __EDGE_SCALING 1 18 1 1
+  __CLICKED "pix/border/topspace.png"
+  __EDGE_SCALING 1 18 1 1
+  __NORMAL_ACTIVE  "pix/border/topspace.png"
+  __EDGE_SCALING 1 18 1 1
+  __HILITED_ACTIVE "pix/border/topspace.png"
+  __EDGE_SCALING 1 18 1 1
+  __CLICKED_ACTIVE "pix/border/topspace.png"
+  __EDGE_SCALING 1 18 1 1
+  __NORMAL_STICKY  "pix/border/topspace.png"
+  __EDGE_SCALING 1 18 1 1
+  __HILITED_STICKY "pix/border/topspace.png"
+  __EDGE_SCALING 1 18 1 1
+  __CLICKED_STICKY "pix/border/topspace.png"
+  __EDGE_SCALING 1 18 1 1
+  __NORMAL_ACTIVE_STICKY  "pix/border/topspace.png"
+  __EDGE_SCALING 1 18 1 1
+  __NORMAL_ACTIVE_HILITED "pix/border/topspace.png"
+  __EDGE_SCALING 1 18 1 1
+  __NORMAL_ACTIVE_CLICKED "pix/border/topspace.png"
+  __EDGE_SCALING 1 18 1 1
+  __PADDING 9 2 3 1
+__END
+
+__ICLASS __BGN
+  __NAME MENUTOP
+  __NORMAL  "pix/menu/menutop2.png"
+  __EDGE_SCALING 18 19 1 1
+  __HILITED "pix/menu/menutop2.png"
+  __EDGE_SCALING 18 19 1 1
+  __CLICKED "pix/menu/menutop2.png"
+  __EDGE_SCALING 18 19 1 1
+  __NORMAL_ACTIVE  "pix/menu/menutop.png"
+  __EDGE_SCALING 18 19 1 1
+  __HILITED_ACTIVE "pix/menu/menutop.png"
+  __EDGE_SCALING 18 19 1 1
+  __CLICKED_ACTIVE "pix/menu/menutop.png"
+  __EDGE_SCALING 18 19 1 1
+  __NORMAL_STICKY  "pix/menu/menutop2.png"
+  __EDGE_SCALING 18 19 1 1
+  __HILITED_STICKY "pix/menu/menutop2.png"
+  __EDGE_SCALING 18 19 1 1
+  __CLICKED_STICKY "pix/menu/menutop.png"
+  __EDGE_SCALING 18 19 1 1
+  __NORMAL_ACTIVE_STICKY  "pix/menu/menutop.png"
+  __EDGE_SCALING 18 19 1 1
+  __NORMAL_ACTIVE_HILITED "pix/menu/menutop.png"
+  __EDGE_SCALING 18 19 1 1
+  __NORMAL_ACTIVE_CLICKED "pix/menu/menutop.png"
+  __EDGE_SCALING 18 19 1 1
+  __PADDING 18 18 3 1
+__END
+
+__ICLASS __BGN
+  __NAME BORDER_LEFT
+  __NORMAL  "pix/border/left.png"
+  __EDGE_SCALING 1 1 1 1 
+  __HILITED "pix/border/left.png"
+  __EDGE_SCALING 1 1 1 1 
+  __CLICKED "pix/border/left.png"
+  __EDGE_SCALING 1 1 1 1 
+  __NORMAL_ACTIVE  "pix/border/left.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_ACTIVE "pix/border/left.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_ACTIVE "pix/border/left.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_STICKY  "pix/border/left.png"
+  __EDGE_SCALING 1 1 1 1 
+  __HILITED_STICKY "pix/border/left.png"
+  __EDGE_SCALING 1 1 1 1 
+  __CLICKED_STICKY "pix/border/left.png"
+  __EDGE_SCALING 1 1 1 1 
+  __NORMAL_ACTIVE_STICKY  "pix/border/left.png"
+  __EDGE_SCALING 1 1 1 1 
+  __NORMAL_ACTIVE_HILITED "pix/border/left.png"
+  __EDGE_SCALING 1 1 1 1 
+  __NORMAL_ACTIVE_CLICKED "pix/border/left.png"
+  __EDGE_SCALING 1 1 1 1 
+  __PADDING 1 1 1 1
+__END
+
+__ICLASS __BGN
+  __NAME BORDER_RIGHT
+  __NORMAL  "pix/border/right.png"
+  __EDGE_SCALING 1 1 1 1 
+  __HILITED "pix/border/right.png"
+  __EDGE_SCALING 1 1 1 1 
+  __CLICKED "pix/border/right.png"
+  __EDGE_SCALING 1 1 1 1 
+  __NORMAL_ACTIVE  "pix/border/right.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_ACTIVE "pix/border/right.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_ACTIVE "pix/border/right.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_STICKY  "pix/border/right.png"
+  __EDGE_SCALING 1 1 1 1 
+  __HILITED_STICKY "pix/border/right.png"
+  __EDGE_SCALING 1 1 1 1 
+  __CLICKED_STICKY "pix/border/right.png"
+  __EDGE_SCALING 1 1 1 1 
+  __NORMAL_ACTIVE_STICKY  "pix/border/right.png"
+  __EDGE_SCALING 1 1 1 1 
+  __NORMAL_ACTIVE_HILITED "pix/border/right.png"
+  __EDGE_SCALING 1 1 1 1 
+  __NORMAL_ACTIVE_CLICKED "pix/border/right.png"
+  __EDGE_SCALING 1 1 1 1 
+  __PADDING 1 1 1 1
+__END
+
+__ICLASS __BGN
+  __NAME BAR_NORMAL
+  __NORMAL "pix/border/bar_horizontal.png"
+  __EDGE_SCALING 10 1 10 1
+  __HILITED "pix/border/bar_horizontal.png"
+  __EDGE_SCALING 10 1 10 1
+  __CLICKED "pix/border/bar_horizontal.png"
+  __EDGE_SCALING 10 1 10 1 
+__END
+
+__ICLASS __BGN
+  __NAME BUTTON
+  __NORMAL "pix/button_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/button_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/button_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/button_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/button_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/button_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/button_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/button_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/button_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/button_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/button_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/button_3.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME BUTTON_KILL
+  __NORMAL "pix/windowbutton/kill_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/windowbutton/kill_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/windowbutton/kill_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/windowbutton/kill_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/windowbutton/kill_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/windowbutton/kill_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/windowbutton/kill_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/windowbutton/kill_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/windowbutton/kill_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/windowbutton/kill_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/windowbutton/kill_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/windowbutton/kill_2.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME BUTTON_ICONIFY
+  __NORMAL "pix/windowbutton/iconify_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/windowbutton/iconify_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/windowbutton/iconify_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/windowbutton/iconify_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/windowbutton/iconify_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/windowbutton/iconify_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/windowbutton/iconify_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/windowbutton/iconify_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/windowbutton/iconify_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/windowbutton/iconify_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/windowbutton/iconify_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/windowbutton/iconify_2.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME BUTTON_MAX
+  __NORMAL "pix/windowbutton/maximize_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/windowbutton/maximize_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/windowbutton/maximize_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/windowbutton/maximize_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/windowbutton/maximize_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/windowbutton/maximize_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/windowbutton/maximize_3.png"
+  __EDGE_SCALING 3 3 3 3
+  __HILITED_STICKY "pix/windowbutton/maximize_3.png"
+  __EDGE_SCALING 3 3 3 3
+  __CLICKED_STICKY "pix/windowbutton/maximize_2.png"
+  __EDGE_SCALING 3 3 3 3
+  __NORMAL_ACTIVE_STICKY "pix/windowbutton/maximize_1.png"
+  __EDGE_SCALING 3 3 3 3
+  __NORMAL_ACTIVE_HILITED "pix/windowbutton/maximize_1.png"
+  __EDGE_SCALING 3 3 3 3
+  __NORMAL_ACTIVE_CLICKED "pix/windowbutton/maximize_2.png"
+  __EDGE_SCALING 3 3 3 3
+__END
+
+__ICLASS __BGN
+  __NAME BUTTON_SHADE
+  __NORMAL "pix/windowbutton/shade_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/windowbutton/shade_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/windowbutton/shade_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/windowbutton/shade_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/windowbutton/shade_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/windowbutton/shade_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/windowbutton/shade_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/windowbutton/shade_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/windowbutton/shade_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/windowbutton/shade_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/windowbutton/shade_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/windowbutton/shade_3.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME BUTTON_MENU
+  __NORMAL "pix/windowbutton/menu_1.png"
+  __EDGE_SCALING 10 2 12 2
+  __HILITED "pix/windowbutton/menu_2.png"
+  __EDGE_SCALING 10 2 12 2
+  __CLICKED "pix/windowbutton/menu_2.png"
+  __EDGE_SCALING 10 2 12 2
+  __NORMAL_ACTIVE "pix/windowbutton/menu_1.png"
+  __EDGE_SCALING 10 2 12 2
+  __HILITED_ACTIVE "pix/windowbutton/menu_2.png"
+  __EDGE_SCALING 10 2 12 2
+  __CLICKED_ACTIVE "pix/windowbutton/menu_2.png"
+  __EDGE_SCALING 10 2 12 2
+  __NORMAL_STICKY "pix/windowbutton/menu_1.png"
+  __EDGE_SCALING 10 2 12 2
+  __HILITED_STICKY "pix/windowbutton/menu_2.png"
+  __EDGE_SCALING 10 2 12 2
+  __CLICKED_STICKY "pix/windowbutton/menu_2.png"
+  __EDGE_SCALING 10 2 12 2
+  __NORMAL_ACTIVE_STICKY "pix/windowbutton/menu_1.png"
+  __EDGE_SCALING 10 2 12 2
+  __NORMAL_ACTIVE_HILITED "pix/windowbutton/menu_2.png"
+  __EDGE_SCALING 10 2 12 2
+  __NORMAL_ACTIVE_CLICKED "pix/windowbutton/menu_2.png"
+  __EDGE_SCALING 10 2 12 2
+__END
+
+__ICLASS __BGN
+  __NAME BUTTON_ARROW_UP
+  __NORMAL "pix/desktopbutton/arrow_up_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/desktopbutton/arrow_up_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/desktopbutton/arrow_up_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/desktopbutton/arrow_up_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/desktopbutton/arrow_up_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/desktopbutton/arrow_up_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/desktopbutton/arrow_up_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/desktopbutton/arrow_up_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/desktopbutton/arrow_up_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/desktopbutton/arrow_up_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/desktopbutton/arrow_up_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/desktopbutton/arrow_up_3.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME BUTTON_ARROW_DOWN
+  __NORMAL "pix/desktopbutton/arrow_down_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/desktopbutton/arrow_down_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/desktopbutton/arrow_down_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/desktopbutton/arrow_down_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/desktopbutton/arrow_down_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/desktopbutton/arrow_down_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/desktopbutton/arrow_down_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/desktopbutton/arrow_down_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/desktopbutton/arrow_down_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/desktopbutton/arrow_down_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/desktopbutton/arrow_down_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/desktopbutton/arrow_down_3.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME BUTTON_ARROW_LEFT
+  __NORMAL "pix/windowbutton/left_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/windowbutton/left_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/windowbutton/left_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/windowbutton/left_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/windowbutton/left_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/windowbutton/left_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/windowbutton/left_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/windowbutton/left_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/windowbutton/left_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/windowbutton/left_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/windowbutton/left_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/windowbutton/left_3.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME BUTTON_ARROW_RIGHT
+  __NORMAL "pix/windowbutton/right_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/windowbutton/right_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/windowbutton/right_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/windowbutton/right_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/windowbutton/right_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/windowbutton/right_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/windowbutton/right_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/windowbutton/right_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/windowbutton/right_3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/windowbutton/right_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/windowbutton/right_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/windowbutton/right_3.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME BORDER_UPPER_LEFT1
+  __NORMAL "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE "pix/border/upper_left1.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_ACTIVE "pix/border/upper_left1.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_ACTIVE "pix/border/upper_left1.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_STICKY "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_STICKY "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_STICKY "pix/border/upper_left1.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_STICKY "pix/border/upper_left1.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_HILITED "pix/border/upper_left1.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_CLICKED "pix/border/upper_left1.png"
+  __EDGE_SCALING 1 1 1 1
+__END
+
+__ICLASS __BGN
+  __NAME BORDER_UPPER_LEFT1_SHADED
+  __NORMAL "pix/border/upper_left2.png"
+  __EDGE_SCALING 18 1 1 1
+  __HILITED "pix/border/upper_left2.png"
+  __EDGE_SCALING 18 1 1 1
+  __CLICKED "pix/border/upper_left2.png"
+  __EDGE_SCALING 18 1 1 1
+  __NORMAL_ACTIVE "pix/border/upper_left3.png"
+  __EDGE_SCALING 18 1 1 1
+  __HILITED_ACTIVE "pix/border/upper_left3.png"
+  __EDGE_SCALING 18 1 1 1
+  __CLICKED_ACTIVE "pix/border/upper_left3.png"
+  __EDGE_SCALING 18 1 1 1
+  __NORMAL_STICKY "pix/border/upper_left2.png"
+  __EDGE_SCALING 18 1 1 1
+  __HILITED_STICKY "pix/border/upper_left2.png"
+  __EDGE_SCALING 18 1 1 1
+  __CLICKED_STICKY "pix/border/upper_left3.png"
+  __EDGE_SCALING 18 1 1 1
+  __NORMAL_ACTIVE_STICKY "pix/border/upper_left3.png"
+  __EDGE_SCALING 18 1 1 1
+  __NORMAL_ACTIVE_HILITED "pix/border/upper_left3.png"
+  __EDGE_SCALING 18 1 1 1
+  __NORMAL_ACTIVE_CLICKED "pix/border/upper_left3.png"
+  __EDGE_SCALING 18 1 1 1
+__END
+
+__ICLASS __BGN
+  __NAME BORDER_UPPER_LEFT2
+  __NORMAL "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_ACTIVE "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_ACTIVE "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_STICKY "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_STICKY "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_STICKY "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_STICKY "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_HILITED "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_CLICKED "pix/border/upper_left2.png"
+  __EDGE_SCALING 1 1 1 1
+__END
+
+__ICLASS __BGN
+  __NAME BORDER_DOWN_LEFT
+  __NORMAL "pix/border/down_left.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED "pix/border/down_left.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED "pix/border/down_left.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE "pix/border/down_left.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_ACTIVE "pix/border/down_left.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_ACTIVE "pix/border/down_left.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_STICKY "pix/border/down_left.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_STICKY "pix/border/down_left.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_STICKY "pix/border/down_left.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_STICKY "pix/border/down_left.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_HILITED "pix/border/down_left.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_CLICKED "pix/border/down_left.png"
+  __EDGE_SCALING 1 1 1 1
+__END
+
+__ICLASS __BGN
+  __NAME BORDER_UPPER_RIGHT1
+  __NORMAL "pix/border/upper_right1.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED "pix/border/upper_right1.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED "pix/border/upper_right1.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE "pix/border/upper_right1.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_ACTIVE "pix/border/upper_right1.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_ACTIVE "pix/border/upper_right1.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_STICKY "pix/border/upper_right1.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_STICKY "pix/border/upper_right1.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_STICKY "pix/border/upper_right1.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_STICKY "pix/border/upper_right1.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_HILITED "pix/border/upper_right1.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_CLICKED "pix/border/upper_right1.png"
+  __EDGE_SCALING 1 1 1 1
+__END
+
+__ICLASS __BGN
+  __NAME BORDER_UPPER_RIGHT1_SHADED
+  __NORMAL "pix/border/upper_right3.png"
+  __EDGE_SCALING 1 18 1 1
+  __HILITED "pix/border/upper_right3.png"
+  __EDGE_SCALING 1 18 1 1
+  __CLICKED "pix/border/upper_right3.png"
+  __EDGE_SCALING 1 18 1 1
+  __NORMAL_ACTIVE "pix/border/upper_right3.png"
+  __EDGE_SCALING 1 18 1 1
+  __HILITED_ACTIVE "pix/border/upper_right3.png"
+  __EDGE_SCALING 1 18 1 1
+  __CLICKED_ACTIVE "pix/border/upper_right3.png"
+  __EDGE_SCALING 1 18 1 1
+  __NORMAL_STICKY "pix/border/upper_right3.png"
+  __EDGE_SCALING 1 18 1 1
+  __HILITED_STICKY "pix/border/upper_right3.png"
+  __EDGE_SCALING 1 18 1 1
+  __CLICKED_STICKY "pix/border/upper_right3.png"
+  __EDGE_SCALING 1 18 1 1
+  __NORMAL_ACTIVE_STICKY "pix/border/upper_right3.png"
+  __EDGE_SCALING 1 18 1 1
+  __NORMAL_ACTIVE_HILITED "pix/border/upper_right3.png"
+  __EDGE_SCALING 1 18 1 1
+  __NORMAL_ACTIVE_CLICKED "pix/border/upper_right3.png"
+  __EDGE_SCALING 1 18 1 1
+__END
+
+__ICLASS __BGN
+  __NAME BORDER_UPPER_RIGHT2
+  __NORMAL "pix/border/upper_right2.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED "pix/border/upper_right2.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED "pix/border/upper_right2.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE "pix/border/upper_right2.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_ACTIVE "pix/border/upper_right2.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_ACTIVE "pix/border/upper_right2.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_STICKY "pix/border/upper_right2.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_STICKY "pix/border/upper_right2.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_STICKY "pix/border/upper_right2.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_STICKY "pix/border/upper_right2.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_HILITED "pix/border/upper_right2.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_CLICKED "pix/border/upper_right2.png"
+  __EDGE_SCALING 1 1 1 1
+__END
+
+__ICLASS __BGN
+  __NAME BORDER_DOWN_RIGHT
+  __NORMAL "pix/border/down_right.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED "pix/border/down_right.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED "pix/border/down_right.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE "pix/border/down_right.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_ACTIVE "pix/border/down_right.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_ACTIVE "pix/border/down_right.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_STICKY "pix/border/down_right.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_STICKY "pix/border/down_right.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_STICKY "pix/border/down_right.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_STICKY "pix/border/down_right.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_HILITED "pix/border/down_right.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_CLICKED "pix/border/down_right.png"
+  __EDGE_SCALING 1 1 1 1
+__END
+
+__ICLASS __BGN
+  __NAME BORDER_DOWN
+  __NORMAL "pix/border/down.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED "pix/border/down.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED "pix/border/down.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE "pix/border/down.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_ACTIVE "pix/border/down.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_ACTIVE "pix/border/down.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_STICKY "pix/border/down.png"
+  __EDGE_SCALING 1 1 1 1
+  __HILITED_STICKY "pix/border/down.png"
+  __EDGE_SCALING 1 1 1 1
+  __CLICKED_STICKY "pix/border/down.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_STICKY "pix/border/down.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_HILITED "pix/border/down.png"
+  __EDGE_SCALING 1 1 1 1
+  __NORMAL_ACTIVE_CLICKED "pix/border/down.png"
+  __EDGE_SCALING 1 1 1 1
+__END
+
+__ICLASS __BGN
+  __NAME SW_TOP_LEFT
+  __NORMAL "pix/sidewindow/top_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED "pix/sidewindow/top_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED "pix/sidewindow/top_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE "pix/sidewindow/top_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_ACTIVE "pix/sidewindow/top_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_ACTIVE "pix/sidewindow/top_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_STICKY "pix/sidewindow/top_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_STICKY "pix/sidewindow/top_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_STICKY "pix/sidewindow/top_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_STICKY "pix/sidewindow/top_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_HILITED "pix/sidewindow/top_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_CLICKED "pix/sidewindow/top_left1.png"
+  __EDGE_SCALING 4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME SW_TOP_LEFT_SHADED
+  __NORMAL "pix/sidewindow/top_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED "pix/sidewindow/top_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED "pix/sidewindow/top_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE "pix/sidewindow/top_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_ACTIVE "pix/sidewindow/top_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_ACTIVE "pix/sidewindow/top_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_STICKY "pix/sidewindow/top_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_STICKY "pix/sidewindow/top_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_STICKY "pix/sidewindow/top_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_STICKY "pix/sidewindow/top_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_HILITED "pix/sidewindow/top_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_CLICKED "pix/sidewindow/top_left2.png"
+  __EDGE_SCALING 4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME SW_TOP
+  __NORMAL "pix/sidewindow/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED "pix/sidewindow/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED "pix/sidewindow/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE "pix/sidewindow/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_ACTIVE "pix/sidewindow/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_ACTIVE "pix/sidewindow/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_STICKY "pix/sidewindow/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_STICKY "pix/sidewindow/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_STICKY "pix/sidewindow/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_STICKY "pix/sidewindow/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_HILITED "pix/sidewindow/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_CLICKED "pix/sidewindow/top.png"
+  __EDGE_SCALING 4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME SW_TOP_RIGHT
+  __NORMAL "pix/sidewindow/top_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/sidewindow/top_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/sidewindow/top_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/sidewindow/top_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/sidewindow/top_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/sidewindow/top_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/sidewindow/top_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/sidewindow/top_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/sidewindow/top_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/sidewindow/top_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/sidewindow/top_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/sidewindow/top_right.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME SW_LEFT
+  __NORMAL "pix/sidewindow/left_t1.png"
+  __EDGE_SCALING 4 4 40 4
+  __HILITED "pix/sidewindow/left_t2.png"
+  __EDGE_SCALING 4 4 40 4
+  __CLICKED "pix/sidewindow/left_t3.png"
+  __EDGE_SCALING 4 4 40 4
+  __NORMAL_ACTIVE "pix/sidewindow/left_t1.png"
+  __EDGE_SCALING 4 4 40 4
+  __HILITED_ACTIVE "pix/sidewindow/left_t2.png"
+  __EDGE_SCALING 4 4 40 4
+  __CLICKED_ACTIVE "pix/sidewindow/left_t3.png"
+  __EDGE_SCALING 4 4 40 4
+  __NORMAL_STICKY "pix/sidewindow/left_t1.png"
+  __EDGE_SCALING 4 4 40 4
+  __HILITED_STICKY "pix/sidewindow/left_t2.png"
+  __EDGE_SCALING 4 4 40 4
+  __CLICKED_STICKY "pix/sidewindow/left_t3.png"
+  __EDGE_SCALING 4 4 40 4
+  __NORMAL_ACTIVE_STICKY "pix/sidewindow/left_t1.png"
+  __EDGE_SCALING 4 4 40 4
+  __NORMAL_ACTIVE_HILITED "pix/sidewindow/left_t2.png"
+  __EDGE_SCALING 4 4 40 4
+  __NORMAL_ACTIVE_CLICKED "pix/sidewindow/left_t3.png"
+  __EDGE_SCALING 4 4 40 4
+  __PADDING 2 2 2 2 
+__END
+
+__ICLASS __BGN
+  __NAME SW_RIGHT
+  __NORMAL "pix/sidewindow/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/sidewindow/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/sidewindow/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/sidewindow/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/sidewindow/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/sidewindow/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/sidewindow/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/sidewindow/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/sidewindow/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/sidewindow/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/sidewindow/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/sidewindow/right.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME SW_BOTTOM_LEFT
+  __NORMAL "pix/sidewindow/bottom_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED "pix/sidewindow/bottom_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED "pix/sidewindow/bottom_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE "pix/sidewindow/bottom_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_ACTIVE "pix/sidewindow/bottom_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_ACTIVE "pix/sidewindow/bottom_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_STICKY "pix/sidewindow/bottom_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_STICKY "pix/sidewindow/bottom_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_STICKY "pix/sidewindow/bottom_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_STICKY "pix/sidewindow/bottom_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_HILITED "pix/sidewindow/bottom_left1.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_CLICKED "pix/sidewindow/bottom_left1.png"
+  __EDGE_SCALING 4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME SW_BOTTOM_LEFT_SHADED
+  __NORMAL "pix/sidewindow/bottom_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED "pix/sidewindow/bottom_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED "pix/sidewindow/bottom_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE "pix/sidewindow/bottom_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_ACTIVE "pix/sidewindow/bottom_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_ACTIVE "pix/sidewindow/bottom_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_STICKY "pix/sidewindow/bottom_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_STICKY "pix/sidewindow/bottom_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_STICKY "pix/sidewindow/bottom_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_STICKY "pix/sidewindow/bottom_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_HILITED "pix/sidewindow/bottom_left2.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_CLICKED "pix/sidewindow/bottom_left2.png"
+  __EDGE_SCALING 4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME SW_BOTTOM
+  __NORMAL "pix/sidewindow/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/sidewindow/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/sidewindow/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/sidewindow/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/sidewindow/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/sidewindow/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/sidewindow/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/sidewindow/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/sidewindow/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/sidewindow/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/sidewindow/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/sidewindow/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME SW_BOTTOM_RIGHT
+  __NORMAL "pix/sidewindow/bottom_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/sidewindow/bottom_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/sidewindow/bottom_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/sidewindow/bottom_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/sidewindow/bottom_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/sidewindow/bottom_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/sidewindow/bottom_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/sidewindow/bottom_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/sidewindow/bottom_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/sidewindow/bottom_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/sidewindow/bottom_right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/sidewindow/bottom_right.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME SW_TITLE
+  __NORMAL "pix/sidewindow/title1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/sidewindow/title2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/sidewindow/title3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/sidewindow/title1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/sidewindow/title2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/sidewindow/title3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/sidewindow/title1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/sidewindow/title2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/sidewindow/title3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/sidewindow/title1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/sidewindow/title2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/sidewindow/title3.png"
+  __EDGE_SCALING 2 2 2 2
+  __PADDING 0 0 0 0 
+__END
+
+
+/* 
+  Imageclasses for transient windows
+*/
+__ICLASS __BGN
+  __NAME TRANSIENT_TOPLEFT
+  __NORMAL "pix/transient/topleft1.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED "pix/transient/topleft1.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED "pix/transient/topleft1.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE "pix/transient/topleft1.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_ACTIVE "pix/transient/topleft1.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_ACTIVE "pix/transient/topleft1.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_STICKY "pix/transient/topleft1.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_STICKY "pix/transient/topleft1.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_STICKY "pix/transient/topleft1.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_STICKY "pix/transient/topleft1.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_HILITED "pix/transient/topleft1.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_CLICKED "pix/transient/topleft1.png"
+  __EDGE_SCALING 4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME TRANSIENT_TOPLEFT_SHADED
+  __NORMAL "pix/transient/topleft2.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED "pix/transient/topleft2.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED "pix/transient/topleft2.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE "pix/transient/topleft2.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_ACTIVE "pix/transient/topleft2.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_ACTIVE "pix/transient/topleft2.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_STICKY "pix/transient/topleft2.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_STICKY "pix/transient/topleft2.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_STICKY "pix/transient/topleft2.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_STICKY "pix/transient/topleft2.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_HILITED "pix/transient/topleft2.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_CLICKED "pix/transient/topleft2.png"
+  __EDGE_SCALING 4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME TRANSIENT_TOP
+  __NORMAL "pix/transient/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED "pix/transient/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED "pix/transient/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE "pix/transient/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_ACTIVE "pix/transient/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_ACTIVE "pix/transient/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_STICKY "pix/transient/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_STICKY "pix/transient/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_STICKY "pix/transient/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_STICKY "pix/transient/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_HILITED "pix/transient/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_CLICKED "pix/transient/top.png"
+  __EDGE_SCALING 4 4 4 4
+  __PADDING 1 1 2 1
+__END
+
+__ICLASS __BGN
+  __NAME TRANSIENT_TOPRIGHT
+  __NORMAL "pix/transient/topright1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/transient/topright1.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/transient/topright1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/transient/topright1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/transient/topright1.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/transient/topright1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/transient/topright1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/transient/topright1.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/transient/topright1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/transient/topright1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/transient/topright1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/transient/topright1.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME TRANSIENT_TOPRIGHT_SHADED
+  __NORMAL "pix/transient/topright2.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/transient/topright2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/transient/topright2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/transient/topright2.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/transient/topright2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/transient/topright2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/transient/topright2.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/transient/topright2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/transient/topright2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/transient/topright2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/transient/topright2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/transient/topright2.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME TRANSIENT_LEFT
+  __NORMAL "pix/transient/left.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED "pix/transient/left.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED "pix/transient/left.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE "pix/transient/left.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_ACTIVE "pix/transient/left.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_ACTIVE "pix/transient/left.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_STICKY "pix/transient/left.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_STICKY "pix/transient/left.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_STICKY "pix/transient/left.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_STICKY "pix/transient/left.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_HILITED "pix/transient/left.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_CLICKED "pix/transient/left.png"
+  __EDGE_SCALING 4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME TRANSIENT_RIGHT
+  __NORMAL "pix/transient/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/transient/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/transient/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/transient/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/transient/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/transient/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/transient/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/transient/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/transient/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/transient/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/transient/right.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/transient/right.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME TRANSIENT_BOTTOMLEFT
+  __NORMAL "pix/transient/bottomleft.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED "pix/transient/bottomleft.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED "pix/transient/bottomleft.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE "pix/transient/bottomleft.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_ACTIVE "pix/transient/bottomleft.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_ACTIVE "pix/transient/bottomleft.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_STICKY "pix/transient/bottomleft.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED_STICKY "pix/transient/bottomleft.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED_STICKY "pix/transient/bottomleft.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_STICKY "pix/transient/bottomleft.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_HILITED "pix/transient/bottomleft.png"
+  __EDGE_SCALING 4 4 4 4
+  __NORMAL_ACTIVE_CLICKED "pix/transient/bottomleft.png"
+  __EDGE_SCALING 4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME TRANSIENT_BOTTOM
+  __NORMAL "pix/transient/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/transient/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/transient/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/transient/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/transient/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/transient/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/transient/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/transient/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/transient/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/transient/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/transient/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/transient/bottom.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME TRANSIENT_BOTTOMRIGHT
+  __NORMAL "pix/transient/bottomright.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/transient/bottomright.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/transient/bottomright.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/transient/bottomright.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/transient/bottomright.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/transient/bottomright.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/transient/bottomright.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/transient/bottomright.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/transient/bottomright.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/transient/bottomright.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/transient/bottomright.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/transient/bottomright.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME MENUBAR
+  __NORMAL "pix/menu/menubar1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/menu/menubar2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/menu/menubar3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE "pix/menu/menubar1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_ACTIVE "pix/menu/menubar2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_ACTIVE "pix/menu/menubar3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_STICKY "pix/menu/menubar1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED_STICKY "pix/menu/menubar2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED_STICKY "pix/menu/menubar3.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_STICKY "pix/menu/menubar1.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_HILITED "pix/menu/menubar2.png"
+  __EDGE_SCALING 2 2 2 2
+  __NORMAL_ACTIVE_CLICKED "pix/menu/menubar3.png"
+  __EDGE_SCALING 2 2 2 2
+  __PADDING 1 1 1 0
+__END
+
+__ICLASS __BGN
+  __NAME ETERM_RESIZE_HANDLE
+  __NORMAL "pix/border/resize_handle2.png"
+  __HILITED "pix/border/resize_handle2.png"
+  __HILITED_ACTIVE "pix/border/resize_handle2.png"
+  __HILITED_STICKY "pix/border/resize_handle2.png"
+__END
+
+__ICLASS __BGN
+  __NAME ETERM_RESIZE_HANDLE2
+  __NORMAL "pix/border/resize_handle1.png"
+  __HILITED "pix/border/resize_handle1.png"
+  __HILITED_ACTIVE "pix/border/resize_handle1.png"
+  __HILITED_STICKY "pix/border/resize_handle1.png"
+__END
+
+__ICLASS __BGN
+  __NAME ETERM_RESIZEV_HANDLE
+  __NORMAL "pix/border/resizev_handle1.png"
+__END
+
+
+__ICLASS __BGN
+  __NAME BUTTON_BLANK
+  __NORMAL "pix/blank.png"
+__END
+
+__ICLASS __BGN
+  __NAME BUTTON_BLACK
+  __NORMAL "pix/black.png"
+__END
+
+__ICLASS __BGN
+  __NAME BUTTON_DOWN
+  __NORMAL "pix/down.png"
+__END
+
+__ICLASS __BGN
+  __NAME BUTTON_LEFT
+  __NORMAL "pix/left.png"
+__END
+
+__ICLASS __BGN
+  __NAME BUTTON_RIGHT
+  __NORMAL "pix/right.png"
+__END
+
+/*
+ * pager stuff
+ */
+__ICLASS __BGN
+  __NAME PAGER_TITLE_MAIN
+  __NORMAL         "pix/icon1.png"
+  __EDGE_SCALING   6 22 1 1
+  __PADDING        6 22 1 1
+__END
+
+__ICLASS __BGN
+  __NAME WARPFOCUS
+  __NORMAL         "pix/icon1.png"
+  __EDGE_SCALING   1 1 1 1
+  __CLICKED        "pix/icon2.png"
+  __EDGE_SCALING   1 1 1 1
+  __PADDING        3 3 1 1
+__END
+
+__ICLASS __BGN
+  __NAME PAGER_BACKGROUND
+  __NORMAL "pix/dialog2.png"
+  __EDGE_SCALING   1 1 1 1
+  __CLICKED "pix/dialog2.png"
+  __EDGE_SCALING   1 1 1 1
+__END
+
+__ICLASS __BGN
+  __NAME PAGER_WIN
+  __NORMAL "pix/icon3.png"
+  __EDGE_SCALING   3 3 3 3
+  __CLICKED "pix/icon3.png"
+  __EDGE_SCALING   3 3 3 3 
+__END
+
+
+/*
+ * Widgets
+*/
+__ICLASS __BGN
+  __NAME DIALOG_WIDGET_BUTTON
+  __NORMAL "pix/widgets/w1.png"
+  __EDGE_SCALING   4 4 4 4
+  __HILITED "pix/widgets/w2.png"
+  __EDGE_SCALING   4 4 4 4
+  __CLICKED "pix/widgets/w3.png"
+  __EDGE_SCALING   4 4 4 4
+  __PADDING        6 6 6 6
+__END
+
+__ICLASS __BGN
+  __NAME DIALOG_WIDGET_CHECK_BUTTON
+  __NORMAL "pix/widgets/check0.png"
+  __EDGE_SCALING   0 0 0 0
+  __HILITED "pix/widgets/check0.png"
+  __EDGE_SCALING   0 0 0 0
+  __NORMAL_ACTIVE "pix/widgets/check1.png"
+  __EDGE_SCALING   0 0 0 0
+  __HILITED_ACTIVE "pix/widgets/check1.png"
+  __EDGE_SCALING   0 0 0 0
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME DIALOG_WIDGET_RADIO_BUTTON
+  __NORMAL "pix/widgets/option1.png"
+  __EDGE_SCALING   0 0 0 0
+  __HILITED "pix/widgets/option1.png"
+  __EDGE_SCALING   0 0 0 0
+  __NORMAL_ACTIVE "pix/widgets/option2.png"
+  __EDGE_SCALING   0 0 0 0
+  __HILITED_ACTIVE "pix/widgets/option2.png"
+  __EDGE_SCALING   0 0 0 0
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME DIALOG_WIDGET_SEPARATOR
+  __NORMAL "pix/widgets/hline.png"
+  __EDGE_SCALING   1 1 1 1
+  __CLICKED "pix/widgets/hline.png"
+  __EDGE_SCALING   1 1 1 1
+  __PADDING        1 1 1 1
+__END
+
+__ICLASS __BGN
+  __NAME DIALOG_WIDGET_TABLE
+  __NORMAL "pix/p_sel.png"
+  __EDGE_SCALING   2 2 2 2
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME DIALOG_WIDGET_SLIDER_BASE_HORIZONTAL
+  __NORMAL "pix/widgets/scrollbar_h.png"
+  __EDGE_SCALING   4 4 1 1
+  __PADDING        4 4 1 1
+__END
+
+__ICLASS __BGN
+  __NAME DIALOG_WIDGET_SLIDER_KNOB_HORIZONTAL
+  __NORMAL "pix/widgets/trough1.png"
+  __EDGE_SCALING   4 4 4 4
+  __CLICKED "pix/widgets/trough2.png"
+  __EDGE_SCALING   4 4 4 4
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME DIALOG_WIDGET_SLIDER_BASE_VERTICAL
+  __NORMAL "pix/widgets/scrollbar_v.png"
+  __EDGE_SCALING   1 1 4 4
+  __PADDING        1 1 4 4
+__END
+
+__ICLASS __BGN
+  __NAME DIALOG_WIDGET_SLIDER_KNOB_VERTICAL
+  __NORMAL "pix/widgets/trough3.png"
+  __EDGE_SCALING   4 4 4 4
+  __CLICKED "pix/widgets/trough4.png"
+  __EDGE_SCALING   4 4 4 4
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME DIALOG_WIDGET_AREA
+  __NORMAL "pix/dialog2.png"
+  __EDGE_SCALING   4 4 4 4
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME SETTINGS_DESKTOP_AREA
+  __NORMAL "pix/dialog1.png"
+  __FILLRULE       __SCALE 
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME SETTINGS_AREA_AREA
+  __NORMAL "pix/dialog1.png"
+  __FILLRULE       __SCALE
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME SETTINGS_AREADESK_AREA
+  __NORMAL "pix/widgets/button1.png"
+  __EDGE_SCALING   4 4 4 4
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME ICONBOX_SCROLLBAR_BASE_HORIZONTAL
+  __NORMAL "pix/widgets/iconboxscrollbase_h.png"
+  __EDGE_SCALING   4 4 1 1
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME ICONBOX_SCROLLBAR_KNOB_HORIZONTAL
+  __NORMAL "pix/widgets/scrollbar_h.png"
+  __EDGE_SCALING   4 4 4 4
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME ICONBOX_SCROLLBAR_BASE_VERTICAL
+  __NORMAL "pix/widgets/iconboxscrollbase_v.png"
+  __EDGE_SCALING   1 1 4 4
+  __PADDING        1 1 4 4
+__END
+
+__ICLASS __BGN
+  __NAME ICONBOX_SCROLLBAR_KNOB_VERTICAL
+  __NORMAL "pix/widgets/scrollbar_v.png"
+  __EDGE_SCALING   4 4 4 4
+  __PADDING        4 4 4 4
+__END
+
+
+__ICLASS __BGN
+  __NAME ICONBOX_HORIZONTAL
+  __NORMAL "pix/dialog1.png"
+  __EDGE_SCALING   50 10 10 10 
+  __PADDING        6 6 6 6 
+__END
+
+__ICLASS __BGN
+  __NAME ICONBOX_VERTICAL
+  __NORMAL "pix/dialog1.png"
+  __EDGE_SCALING   10 10 50 10
+  __PADDING        6 6 6 6
+__END
+
+__ICLASS __BGN
+  __NAME ICONBOX_SCROLLKNOB_HORIZONTAL
+  __NORMAL "pix/widgets/trough1.png"
+  __EDGE_SCALING   4 4 4 4
+  __CLICKED "pix/widgets/trough2.png"
+  __EDGE_SCALING   4 4 4 4
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME ICONBOX_SCROLLKNOB_VERTICAL
+  __NORMAL "pix/widgets/trough1.png"
+  __EDGE_SCALING   4 4 4 4
+  __CLICKED "pix/widgets/trough2.png"
+  __EDGE_SCALING   4 4 4 4
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME ICONBOX_COVER_VERTICAL
+  __NORMAL "pix/widgets/iconboxcover_v.png"
+  __EDGE_SCALING   10 10 10 10
+  __PADDING        9 9 9 9
+__END
+
+__ICLASS __BGN
+  __NAME ICONBOX_COVER_HORIZONTAL
+  __NORMAL "pix/widgets/iconboxcover_h.png"
+  __EDGE_SCALING   10 10 10 10
+  __PADDING        9 9 9 9
+__END
+
+__ICLASS __BGN
+  __NAME PAGER_COVER
+  __NORMAL "pix/widgets/pagercover_top.png"
+  __EDGE_SCALING   10 10 10 10
+  __PADDING        9 9 9 9
+__END
+
+__ICLASS __BGN
+  __NAME PAGER_COVER_LEFT
+  __NORMAL "pix/widgets/pagercover_left.png"
+  __EDGE_SCALING   10 10 10 10
+  __PADDING        9 9 9 9
+__END
+
+__ICLASS __BGN
+  __NAME PAGER_COVER_RIGHT
+  __NORMAL "pix/widgets/pagercover_right.png"
+  __EDGE_SCALING   10 10 10 10
+  __PADDING        9 9 9 9
+__END
+
+__ICLASS __BGN
+  __NAME ICONBOX_ARROW_LEFT
+  __NORMAL "pix/widgets/arrow_left_1.png"
+  __EDGE_SCALING 4 2 2 2
+  __CLICKED "pix/widgets/arrow_left_2.png"
+  __EDGE_SCALING 4 2 2 2
+  __PADDING 0 0 0 0
+__END
+
+__ICLASS __BGN
+  __NAME ICONBOX_ARROW_RIGHT
+  __NORMAL "pix/widgets/arrow_right_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/widgets/arrow_right_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __PADDING 0 0 0 0
+__END
+
+__ICLASS __BGN
+  __NAME ICONBOX_ARROW_UP
+  __NORMAL "pix/widgets/arrow_up_1.png"
+  __EDGE_SCALING 2 2 4 2
+  __CLICKED "pix/widgets/arrow_up_2.png"
+  __EDGE_SCALING 2 2 4 2
+  __PADDING 0 0 0 0
+__END
+
+__ICLASS __BGN
+  __NAME ICONBOX_ARROW_DOWN
+  __NORMAL "pix/widgets/arrow_down_1.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/widgets/arrow_down_2.png"
+  __EDGE_SCALING 2 2 2 2
+  __PADDING 0 0 0 0
+__END
+
+__ICLASS __BGN
+  __NAME ICONBOX_TITLE_BLANK
+  __NORMAL "pix/blank.png"
+__END
+    
+__ICLASS __BGN
+  __NAME ICONBOX_TITLE_MAIN
+  __NORMAL "pix/coords.png"
+  __EDGE_SCALING   4 4 4 4
+  __PADDING        3 3 3 3
+__END
+
+__ICLASS __BGN
+  __NAME DEFAULT_ICON_BUTTON
+  __NORMAL "pix/defaulticon.png"
+  __EDGE_SCALING   4 4 4 4
+  __PADDING        4 4 4 4
+__END
+
+
+__ICLASS __BGN
+  __NAME DESKTOP_DRAGBUTTON_VERT
+  __NORMAL "pix/dragbar/dragbar_vertical_1.png"
+  __EDGE_SCALING 2 2 50 2
+  __CLICKED "pix/dragbar/dragbar_vertical_2.png"
+  __EDGE_SCALING 2 2 50 2
+  __HILITED "pix/dragbar/dragbar_vertical_3.png"
+  __EDGE_SCALING 2 2 50 2
+__END
+
+__ICLASS __BGN
+  __NAME DESKTOP_RAISEBUTTON_VERT
+  __NORMAL "pix/desktopbutton/arrow_right_1.png"
+  __HILITED "pix/desktopbutton/arrow_right_2.png"
+  __CLICKED "pix/desktopbutton/arrow_right_3.png"
+__END
+
+__ICLASS __BGN
+  __NAME DESKTOP_LOWERBUTTON_VERT
+  __NORMAL "pix/desktopbutton/arrow_left_1.png"
+  __HILITED "pix/desktopbutton/arrow_left_2.png"
+  __CLICKED "pix/desktopbutton/arrow_left_3.png"
+__END
+
+
+/*
+ * Dock App Background, Icons
+ */
+
+__ICLASS __BGN
+  __NAME DEFAULT_MENU_BUTTON
+  __NORMAL "pix/menu/menu_bg.png"
+  __EDGE_SCALING 3 3 21 3
+  __HILITED "pix/menu/menu_bg.png"
+  __EDGE_SCALING 3 3 21 3
+  __CLICKED "pix/menu/menu_bg.png"
+  __EDGE_SCALING 3 3 21 3
+  __PADDING 4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME TASK_MENU_BUTTON
+  __NORMAL "pix/menu/taskmenu_bg.png"
+  __EDGE_SCALING 3 3 3 3
+  __HILITED "pix/menu/taskmenu_bg.png"
+  __EDGE_SCALING 3 3 3 3
+  __CLICKED "pix/menu/taskmenu_bg.png"
+  __EDGE_SCALING 3 3 3 3
+  __PADDING 4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME DEFAULT_DOCK_BUTTON
+  __NORMAL "pix/dock1.png"
+  __EDGE_SCALING 4 4 4 4
+  __HILITED "pix/dock1.png"
+  __EDGE_SCALING 4 4 4 4
+  __CLICKED "pix/dock1.png"
+  __EDGE_SCALING 4 4 4 4
+  __PADDING 4 4 4 4
+  __END
+
+__ICLASS __BGN
+  __NAME DEFAULT_ICON_BUTTON
+  __NORMAL "pix/icon1.png"
+  __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/icon2.png"
+  __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/icon3.png"
+  __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME DEFAULT_TOOLTIP_MAIN
+  __NORMAL "pix/ttip_cloud_big.png"
+  __EDGE_SCALING 20 11 20 13
+  __HILITED "pix/ttip_cloud_big.png"
+  __EDGE_SCALING 20 11 20 13
+  __CLICKED "pix/ttip_cloud_big.png"
+  __EDGE_SCALING 20 11 20 13
+  __PADDING 12 10 16 14
+__END
+
+__ICLASS __BGN
+  __NAME DEFAULT_TOOLTIP_CLOUD1
+  __NORMAL "pix/ttip_cloud_small.png"
+__END
+
+__ICLASS __BGN
+  __NAME DEFAULT_TOOLTIP_CLOUD2
+  __NORMAL "pix/ttip_cloud_small.png"
+__END
+
+__ICLASS __BGN
+  __NAME DEFAULT_TOOLTIP_CLOUD3
+  __NORMAL "pix/ttip_cloud_small.png"
+__END
+
+__ICLASS __BGN
+  __NAME DEFAULT_TOOLTIP_CLOUD4
+  __NORMAL "pix/ttip_cloud_small.png"
+__END
+
+__ICLASS __BGN
+  __NAME DEFAULT_MENU_SUB
+  __NORMAL "pix/menu/menu1.png"
+  __EDGE_SCALING 0 16 15 0
+  __HILITED "pix/menu/menu2.png"
+  __EDGE_SCALING 3 16 15 2
+  __CLICKED "pix/menu/menu3.png"
+  __EDGE_SCALING 3 16 15 2
+  __PADDING 6 27 4 2  
+__END
+
+__ICLASS __BGN
+  __NAME DEFAULT_MENU
+  __NORMAL "pix/menu/menu4.png"
+  __EDGE_SCALING 3 2 3 2
+  __HILITED "pix/menu/menu5.png"
+  __EDGE_SCALING 3 2 3 2
+  __CLICKED "pix/menu/menu6.png"
+  __EDGE_SCALING 3 2 3 2
+  __PADDING 6 27 4 2
+__END
+
+__ICLASS __BGN
+  __NAME COORDS
+  __NORMAL "pix/coords.png"
+  __EDGE_SCALING 3 3 3 3 
+  __PADDING 4 4 2 2
+__END
+
+__ICLASS __BGN
+  __NAME PAGER_SEL
+  __NORMAL         "pix/p_sel.png"
+  __EDGE_SCALING   2 2 2 2
+  __PADDING        2 2 2 2
+__END
+        
+__ICLASS __BGN
+  __NAME PAGER_WIN
+  __NORMAL "pix/dock1.png"
+  __EDGE_SCALING 2 2 2 2
+  __PADDING 2 2 2 2
+__END
+
+
+
+/*
+ * Eppletimageclasses
+ */
+
+__ICLASS __BGN
+  __NAME EPPLET_BACKGROUND_HORIZONTAL
+  __NORMAL "pix/epplets/bg_h.png"
+  __EDGE_SCALING 4 4 4 4
+  __PADDING 4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_BACKGROUND_VERTICAL
+  __NORMAL "pix/epplets/bg_v.png"
+  __EDGE_SCALING 4 4 4 4
+  __PADDING 4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_BUTTON
+  __NORMAL "pix/epplets/button_fg.png"
+    __EDGE_SCALING 3 3 3 3
+  __HILITED "pix/epplets/button_fg.png"
+    __EDGE_SCALING 3 3 3 3
+  __CLICKED "pix/epplets/button_cl.png"
+    __EDGE_SCALING 3 3 3 3
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_TOGGLEBUTTON_OFF
+  __NORMAL "pix/epplets/togglebutton_up.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/togglebutton_up.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/togglebutton_down.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_TOGGLEBUTTON_ON
+  __NORMAL "pix/epplets/togglebutton_down.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/togglebutton_down.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/togglebutton_up.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_DRAWINGAREA
+  __NORMAL "pix/epplets/drawingarea.png"
+    __EDGE_SCALING   2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_HSLIDER_BASE
+  __NORMAL "pix/epplets/slider_base_h.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_HSLIDER_KNOB
+  __NORMAL "pix/epplets/slider_knob_h.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/slider_knob_h.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_VSLIDER_BASE
+  __NORMAL "pix/epplets/slider_base_v.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_VSLIDER_KNOB
+  __NORMAL "pix/epplets/slider_knob_v.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/slider_knob_v.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_POPUP_BASE
+  __NORMAL "pix/epplets/bg_v.png"
+  __EDGE_SCALING 2 2 2 2
+  __PADDING 4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_POPUP_ENTRY
+  __NORMAL "pix/epplets/button_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/button_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/button_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_HBAR_BASE
+  __NORMAL "pix/epplets/drawingarea.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_HBAR_BAR
+  __NORMAL "pix/epplets/bar.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_VBAR_BASE
+  __NORMAL "pix/epplets/drawingarea.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_VBAR_BAR
+  __NORMAL "pix/epplets/bar.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_ARROW_UP
+  __NORMAL "pix/epplets/arrow_up_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/arrow_up_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/arrow_up_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_ARROW_DOWN
+  __NORMAL "pix/epplets/arrow_down_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/arrow_down_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/arrow_down_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_ARROW_LEFT
+  __NORMAL "pix/epplets/arrow_left_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/arrow_left_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/arrow_left_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_ARROW_RIGHT
+  __NORMAL "pix/epplets/arrow_right_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/arrow_right_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/arrow_right_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_PLAY
+  __NORMAL "pix/epplets/play_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/play_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/play_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_STOP
+  __NORMAL "pix/epplets/stop_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/stop_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/stop_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_PAUSE
+  __NORMAL "pix/epplets/pause_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/pause_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/pause_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_PREVIOUS
+  __NORMAL "pix/epplets/prev_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/prev_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/prev_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_NEXT
+  __NORMAL "pix/epplets/next_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/next_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/next_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_EJECT
+  __NORMAL "pix/epplets/eject_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/eject_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/eject_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_CLOSE
+  __NORMAL "pix/epplets/close_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/close_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/close_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_FAST_FORWARD
+  __NORMAL "pix/epplets/ff_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/ff_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/ff_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_REWIND
+  __NORMAL "pix/epplets/rw_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/rw_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/rw_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_REPEAT
+  __NORMAL "pix/epplets/repeat_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/repeat_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/repeat_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_SKIP
+  __NORMAL "pix/epplets/skip_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/skip_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/skip_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_HELP
+  __NORMAL "pix/epplets/help_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/help_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/help_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME EPPLET_CONFIGURE
+  __NORMAL "pix/epplets/config_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __HILITED "pix/epplets/config_fg.png"
+    __EDGE_SCALING 2 2 2 2
+  __CLICKED "pix/epplets/config_cl.png"
+    __EDGE_SCALING 2 2 2 2
+__END
+
+
+
+/*
+ * ETerm AutoMode stuff
+*/
+__ICLASS __BGN
+  __NAME ETERM_BG
+  __NORMAL "pix/eterm/bg.png"
+  __EDGE_SCALING 5 5 5 5
+  __PADDING        5 5 5 5
+__END
+
+__ICLASS __BGN
+  __NAME ETERM_ARROW_UP
+  __NORMAL "pix/eterm/arrow_up1.png"
+  __CLICKED "pix/eterm/arrow_up3.png"
+__END
+
+__ICLASS __BGN
+  __NAME ETERM_ARROW_DOWN
+  __NORMAL "pix/eterm/arrow_down1.png"
+  __CLICKED "pix/eterm/arrow_down3.png"
+__END
+
+__ICLASS __BGN
+  __NAME ETERM_ARROW_LEFT
+  __NORMAL "pix/eterm/arrow_left1.png"
+  __CLICKED "pix/eterm/arrow_left3.png"
+__END
+
+__ICLASS __BGN
+  __NAME ETERM_ARROW_RIGHT
+ __NORMAL "pix/eterm/arrow_right1.png"
+ __CLICKED "pix/eterm/arrow_right3.png"
+__END
+
+__ICLASS __BGN
+  __NAME ETERM_TROUGH
+  __NORMAL "pix/eterm/trough.png"
+  __EDGE_SCALING   4 2 4 2
+  __PADDING        2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME ETERM_ANCHOR
+  __NORMAL "pix/eterm/shadow1.png"
+  __EDGE_SCALING   2 2 2 2
+  __PADDING        2 2 2 2
+  __CLICKED "pix/eterm/shadow2.png"
+  __EDGE_SCALING   2 2 2 2
+  __PADDING        2 2 2 2
+__END
+
+__ICLASS __BGN
+  __NAME ETERM_MENU_BOX
+  __NORMAL "pix/eterm/button.png"
+  __EDGE_SCALING   4 4 4 4
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME ETERM_MENU_BACKGROUND
+  __NORMAL "pix/eterm/button.png"
+  __EDGE_SCALING   4 4 4 4
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME ETERM_MENU_ITEM
+  __NORMAL "pix/eterm/button.png"
+  __EDGE_SCALING   4 4 4 4
+  __PADDING        4 4 4 4
+__END
+
+__ICLASS __BGN
+  __NAME ETERM_MENU_SUBMENU
+  __NORMAL         "pix/eterm/button.png"
+  __EDGE_SCALING   6 22 1 1
+  __HILITED        "pix/eterm/button.png"
+  __EDGE_SCALING   6 22 1 1
+  __CLICKED        "pix/eterm/button.png"
+  __EDGE_SCALING   6 22 1 1
+  __PADDING        6 22 1 1
+__END

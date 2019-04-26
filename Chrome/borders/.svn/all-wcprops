@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/current/Chrome/e16/borders
+END
+borderless.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/current/Chrome/e16/borders/borderless.cfg
+END
+default.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/current/Chrome/e16/borders/default.cfg
+END
+shaped.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/current/Chrome/e16/borders/shaped.cfg
+END
+transient.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/current/Chrome/e16/borders/transient.cfg
+END

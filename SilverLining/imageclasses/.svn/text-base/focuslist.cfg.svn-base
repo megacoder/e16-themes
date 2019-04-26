@@ -1,0 +1,9 @@
+/* Maintained at themes.effx.us
+   $Id$ */
+
+__ICLASS __BGN
+  __NAME WARPFOCUS
+  __NORMAL "artwork/common/bg.png"
+  __PADDING 2 2 2 2
+__END
+

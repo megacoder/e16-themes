@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1/current/GTK+/e16/audio
+END
+shade.wav
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1/current/GTK+/e16/audio/shade.wav
+END
+close.wav
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1/current/GTK+/e16/audio/close.wav
+END
+unshade.wav
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/current/GTK+/e16/audio/unshade.wav
+END
+deiconify.wav
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1/current/GTK+/e16/audio/deiconify.wav
+END
+stick.wav
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1/current/GTK+/e16/audio/stick.wav
+END
+iconify.wav
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/current/GTK+/e16/audio/iconify.wav
+END
+slide.wav
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1/current/GTK+/e16/audio/slide.wav
+END
+unstick.wav
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/current/GTK+/e16/audio/unstick.wav
+END
+startup.wav
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/current/GTK+/e16/audio/startup.wav
+END

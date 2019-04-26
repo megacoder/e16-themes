@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/66/current/Nix/e16/borders
+END
+tech.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/current/Nix/e16/borders/tech.cfg
+END
+side.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/current/Nix/e16/borders/side.cfg
+END
+default.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/current/Nix/e16/borders/default.cfg
+END
+fixed_size.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/66/current/Nix/e16/borders/fixed_size.cfg
+END
+epplet.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/current/Nix/e16/borders/epplet.cfg
+END
+frame.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/66/current/Nix/e16/borders/frame.cfg
+END
+pager.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/current/Nix/e16/borders/pager.cfg
+END
+dr9.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/current/Nix/e16/borders/dr9.cfg
+END
+iconbox.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/current/Nix/e16/borders/iconbox.cfg
+END
+maxability.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/current/Nix/e16/borders/maxability.cfg
+END
+shaped.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/current/Nix/e16/borders/shaped.cfg
+END
+menu.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/current/Nix/e16/borders/menu.cfg
+END
+borderless.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/current/Nix/e16/borders/borderless.cfg
+END
+fixed_frame.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/66/current/Nix/e16/borders/fixed_frame.cfg
+END
+eterm.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/current/Nix/e16/borders/eterm.cfg
+END

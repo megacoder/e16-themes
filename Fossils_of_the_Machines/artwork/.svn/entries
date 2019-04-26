@@ -1,0 +1,169 @@
+10
+
+dir
+94
+http://themes.effx.us/svn/current/Fossils_of_the_Machines/e16/artwork
+http://themes.effx.us/svn
+
+
+
+2008-12-03T22:00:38.153958Z
+1
+don
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+00dd9fb7-089a-470a-bdcf-97ef201ece11
+
+dialogs
+dir
+
+atoms
+dir
+
+default_in.png
+file
+
+
+
+
+2010-03-18T22:07:41.090123Z
+06416f7f8ed71dbd3c0389d783354fe6
+2008-12-03T22:00:38.153958Z
+1
+don
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+433
+
+default_out.png
+file
+
+
+
+
+2010-03-18T22:07:41.091118Z
+8044aa0ffcaef58ddeb7dae9dfefdcc0
+2008-12-03T22:00:38.153958Z
+1
+don
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19977
+
+pager
+dir
+
+black.png
+file
+
+
+
+
+2010-03-18T22:07:41.091118Z
+4d19bf0e7470ab1b0b580dab70cfbd4b
+2008-12-03T22:00:38.153958Z
+1
+don
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+143
+
+cursors
+dir
+
+borders
+dir
+
+iconbox
+dir
+
+dragbar
+dir
+
+backgrounds
+dir
+
+init
+dir
+
+menustyles
+dir
+
+focuslist
+dir
+
+epplets
+dir
+
+tooltips
+dir
+

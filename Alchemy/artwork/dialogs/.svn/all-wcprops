@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/current/Alchemy/e16/artwork/dialogs
+END
+check_inactive.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1/current/Alchemy/e16/artwork/dialogs/check_inactive.png
+END
+option_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1/current/Alchemy/e16/artwork/dialogs/option_active.png
+END
+slider_non_hilted.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1/current/Alchemy/e16/artwork/dialogs/slider_non_hilted.png
+END
+check_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1/current/Alchemy/e16/artwork/dialogs/check_active.png
+END
+option_inactive.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/current/Alchemy/e16/artwork/dialogs/option_inactive.png
+END
+slider_hilted.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1/current/Alchemy/e16/artwork/dialogs/slider_hilted.png
+END

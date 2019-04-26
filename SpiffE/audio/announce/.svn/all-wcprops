@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1/current/SpiffE/e16/audio/announce
+END
+error_ipc.wav
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1/current/SpiffE/e16/audio/announce/error_ipc.wav
+END
+warning.wav
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/current/SpiffE/e16/audio/announce/warning.wav
+END
+e-conf.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/current/SpiffE/e16/audio/announce/e-conf.wav
+END
+goodbye.wav
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/current/SpiffE/e16/audio/announce/goodbye.wav
+END
+logout.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/current/SpiffE/e16/audio/announce/logout.wav
+END
+dialog_already_active.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1/current/SpiffE/e16/audio/announce/dialog_already_active.wav
+END
+welcome_to_e.wav
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1/current/SpiffE/e16/audio/announce/welcome_to_e.wav
+END

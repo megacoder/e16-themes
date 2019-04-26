@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1/current/Aspen/e16/artwork
+END
+dialog_button_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_button_hilited.png
+END
+button_maximize_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_maximize_clicked.png
+END
+button_left_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_left_normal.png
+END
+pager_select.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/current/Aspen/e16/artwork/pager_select.png
+END
+dialog_background.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_background.png
+END
+dragbar_vert.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dragbar_vert.png
+END
+border_titlebar_normal_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1/current/Aspen/e16/artwork/border_titlebar_normal_active.png
+END
+menu_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/current/Aspen/e16/artwork/menu_hilited.png
+END
+dialog_button_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_button_clicked.png
+END
+button_down_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_down_normal.png
+END
+button_unstick_normal_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_unstick_normal_active.png
+END
+dialog_knob_vert_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_knob_vert_normal.png
+END
+button_stick_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_stick_normal.png
+END
+button_right_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_right_normal.png
+END
+button_stick_clicked_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_stick_clicked_active.png
+END
+blackdot.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1/current/Aspen/e16/artwork/blackdot.png
+END
+button_minimize_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_minimize_normal.png
+END
+dialog_knob_horiz_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_knob_horiz_hilited.png
+END
+button_minimize_clicked_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_minimize_clicked_active.png
+END
+button_maximize_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_maximize_normal.png
+END
+button_maximize_clicked_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_maximize_clicked_active.png
+END
+button_kill_normal_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_kill_normal_active.png
+END
+dialog_knob_horiz_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_knob_horiz_normal.png
+END
+button_side_shade_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_side_shade_normal.png
+END
+border_resize_vert.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/current/Aspen/e16/artwork/border_resize_vert.png
+END
+button_side_shade_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_side_shade_clicked.png
+END
+transparent.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1/current/Aspen/e16/artwork/transparent.png
+END
+dialog_button_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_button_normal.png
+END
+button_kill_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_kill_clicked.png
+END
+button_menu_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_menu_normal.png
+END
+border_side_titlebar_normal_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1/current/Aspen/e16/artwork/border_side_titlebar_normal_active.png
+END
+dialog_knob_vert_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_knob_vert_hilited.png
+END
+dialog_radiobutton_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_radiobutton_hilited.png
+END
+button_stick_normal_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_stick_normal_active.png
+END
+dragbar_horiz.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dragbar_horiz.png
+END
+button_minimize_normal_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_minimize_normal_active.png
+END
+border_resize_ne.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/current/Aspen/e16/artwork/border_resize_ne.png
+END
+button_stick_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_stick_clicked.png
+END
+button_right_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_right_clicked.png
+END
+button_shade_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_shade_normal.png
+END
+warpfocus_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1/current/Aspen/e16/artwork/warpfocus_clicked.png
+END
+button_shade_clicked_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_shade_clicked_active.png
+END
+button_minimize_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_minimize_clicked.png
+END
+button_shade_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_shade_clicked.png
+END
+pager_background.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/current/Aspen/e16/artwork/pager_background.png
+END
+button_kill_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_kill_normal.png
+END
+button_kill_clicked_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_kill_clicked_active.png
+END
+border_resize_nw.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/current/Aspen/e16/artwork/border_resize_nw.png
+END
+dialog_trough_horiz.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_trough_horiz.png
+END
+button_left_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_left_clicked.png
+END
+menu_background.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/current/Aspen/e16/artwork/menu_background.png
+END
+menu_submenu_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1/current/Aspen/e16/artwork/menu_submenu_hilited.png
+END
+border_resize_horiz.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1/current/Aspen/e16/artwork/border_resize_horiz.png
+END
+border_titlebar_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1/current/Aspen/e16/artwork/border_titlebar_normal.png
+END
+button_unstick_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_unstick_normal.png
+END
+button_unstick_clicked_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_unstick_clicked_active.png
+END
+dialog_checkbutton_hilited_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_checkbutton_hilited_active.png
+END
+button_unshade_normal_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_unshade_normal_active.png
+END
+border_resize_se.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/current/Aspen/e16/artwork/border_resize_se.png
+END
+button_up_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_up_normal.png
+END
+button_unstick_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_unstick_clicked.png
+END
+button_up_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_up_clicked.png
+END
+button_unshade_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_unshade_clicked.png
+END
+dialog_checkbutton_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_checkbutton_normal.png
+END
+dialog_radiobutton_hilited_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_radiobutton_hilited_active.png
+END
+border_resize_sw.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/current/Aspen/e16/artwork/border_resize_sw.png
+END
+menu_submenu_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1/current/Aspen/e16/artwork/menu_submenu_normal.png
+END
+dialog_radiobutton_normal_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_radiobutton_normal_active.png
+END
+dialog_separator.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_separator.png
+END
+button_down_clicked.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_down_clicked.png
+END
+button_maximize_normal_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_maximize_normal_active.png
+END
+dialog_radiobutton_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_radiobutton_normal.png
+END
+button_shade_normal_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_shade_normal_active.png
+END
+dragbar_startup.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dragbar_startup.png
+END
+dialog_trough_vert.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_trough_vert.png
+END
+dialog_checkbutton_hilited.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_checkbutton_hilited.png
+END
+button_unshade_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_unshade_normal.png
+END
+tooltip.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1/current/Aspen/e16/artwork/tooltip.png
+END
+dialog_checkbutton_normal_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1/current/Aspen/e16/artwork/dialog_checkbutton_normal_active.png
+END
+button_unshade_clicked_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1/current/Aspen/e16/artwork/button_unshade_clicked_active.png
+END
